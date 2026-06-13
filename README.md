@@ -38,4 +38,5 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 
 <img width="410" height="389" alt="image" src="https://github.com/user-attachments/assets/e1f9b2c7-c11e-46a4-89c4-c4683d330ae6" />
 
+2316 getting pins and needles across top of the shoulder to the tip of my fingers. not constant but intermittent, with it occuring slightly more on the fingers
 
