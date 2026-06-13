@@ -1,6 +1,6 @@
 # nerve-diary
 
-purpose of this is to show via the commit history that the diary is being made periodically and not simply generated
+purpose of this is to show via the commit history that the diary is being made periodically and not simply generated. I intend to list every instance where possible, that i have experienced some degree of nerve pain or sensation that doesnt match what is expected. for instance, moving my hand normally, but still getting the pain. I will not be mentioning the instances whereby I have slept for no accurate way of keeping track. Also not mentioning instances where if i havent moved for a while and got pins and needles or similar as a result
 
 ## Tuesday 9th June 
 weird vague feeling like pins and needles but much longer and no reason in particular
@@ -30,5 +30,12 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 
 1936 pins and needles on left side of forearm and hand (only effecting the pinky)
 
-2004 nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to pinky. Will attach image to show, <img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/5732c568-335c-4309-85ea-e81ef749397e" />
+2004 nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to pinky. Will attach image to show,
+
+<img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/5732c568-335c-4309-85ea-e81ef749397e" />
+
+2010 Pins and needles more in the forearm again. Also got a random pain the middle finger. Proximal? 
+
+<img width="410" height="389" alt="image" src="https://github.com/user-attachments/assets/e1f9b2c7-c11e-46a4-89c4-c4683d330ae6" />
+
 
