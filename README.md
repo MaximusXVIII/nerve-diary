@@ -29,3 +29,6 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 1908 nerve pain under the pinky / palm area, feels like they are numb 
 
 1936 pins and needles on left side of forearm and hand (only effecting the pinky)
+
+2004 nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to pinky. Will attach image to show, <img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/5732c568-335c-4309-85ea-e81ef749397e" />
+
