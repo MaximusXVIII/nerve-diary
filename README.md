@@ -27,3 +27,5 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 1720 Got a sharp nerve pain in my index finger, was a fleeting moment, but never felt that before
 
 1908 nerve pain under the pinky / palm area, feels like they are numb 
+
+1936 pins and needles on left side of forearm and hand (only effecting the pinky)
