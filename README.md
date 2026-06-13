@@ -19,3 +19,5 @@ at desk, keep getting persistent nerve pins needles feeling. no abnormla positio
 laid down in bed at 1100 and the pain is not entirely present but still getting some discomfort from the nerve sensation in my left hand and fingers
 
 while driving, pain in centre of hand, lower palm?
+
+At desk, 1612, and getting more nerve like numbness in my hand, had a particular moment of pain on the palm point below the pinky.
