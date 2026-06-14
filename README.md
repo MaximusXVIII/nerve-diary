@@ -247,4 +247,20 @@ Sleep affected:  N/A
 
 Medication taken:  N/A
 
-Duration of episode: started at 2023
+Duration of episode:  2023-30? roughly
+
+### 2038
+
+Pain score: 5 when the arm was extended down it had an increase in pressure
+
+Pins and needles score:9 as the arm was extended the pins and needles greatly increased
+
+Numbness score: 3
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: only seemed to happen when extended
