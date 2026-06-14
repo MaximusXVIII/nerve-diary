@@ -176,4 +176,21 @@ Attached is an image showing where i am currnetly feeling it
 
 <img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/cca530ab-b81d-4ecb-88ee-8003c75eccb4" />
 
+### 1640
 
+Pain score: 4 - pain subsided alot, but still feeling uncomfortable with the arm and such
+
+Pins and needles score: 7 Pain is all over the left arm currently, random intervals and positioning. also appeared closer towards under the armpit which felt a bit different
+
+Numbness score:
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
+
+Rough image of where everything is showing
+<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/0f71b721-5cdc-4fe9-b807-b576e8f15f87" />
