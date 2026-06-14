@@ -6,12 +6,19 @@ Plan to improve the diary from now on, making it match the following criteria
 
 ### 
 Pain score:
+
 Pins and needles score:
+
 Numbness score:
+
 Activities affected:
+
 Sleep affected:
+
 Medication taken:
+
 Duration of episode:
+
 
 That way I got things clearly marked out. Will include this version above as the template
 
@@ -83,20 +90,34 @@ getting sharp pain in the little finger for a few seconds. Also pain in the left
 
 ### 1354 
 Pain score: 5 at the moment, low level discomfort, not impacting my ability to do general jobs around the flat, but this is unfortable
+
 Pins and needles score: probably a moderate 3, can feel the sensation, but isnt too bad that I am impacted. Middle finger is also getting some pain aswell, but more alligned with pins and needles
+
 Numbness score: Probably a 1, can feel some dullness in comparison, but not too bad
+
 Activities affected: Impacting my ability to type a little
+
 Sleep affected: N/A
+
 Medication taken: N/A
+
 Duration of episode: Still ongoing, will update when changes
+
 
 ### 1404
 Pain score: 6 maybe at the moment, last episode is still continuing, but the pain is moving a little and getting a burning sensation a little towards the crease in the forearm
+
 Pins and needles score: 3 still present but coming in waves, more focused on the burning pain
+
 Numbness score: N/a
+
 Activities affected: n/a
+
 Sleep affected: n/a
+
 Medication taken:n/a
+
 Duration of episode: n/a
+
 
 
