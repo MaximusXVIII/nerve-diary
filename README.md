@@ -12,11 +12,11 @@ Pins and needles score:
 
 Numbness score:
 
-Activities affected:
+Activities affected: N/A
 
-Sleep affected:
+Sleep affected:  N/A
 
-Medication taken:
+Medication taken:  N/A
 
 Duration of episode:
 
@@ -154,6 +154,26 @@ Sleep affected: N/A
 
 Medication taken: N/A
 
-Duration of episode:Since 1603
+Duration of episode: 1603 - 1615
+
+### 1619
+
+Pain score: 7 - pain in the pins and needles amped up a bit, as well as pain under the forear. Not as persistent but still occuring
+
+Pins and needles score: 8 - Brief but quite sharp pain felt
+
+Numbness score: 2
+
+Activities affected: N/A
+
+Sleep affected: N/A
+
+Medication taken: N/A
+
+Duration of episode: Ongoing
+
+Attached is an image showing where i am currnetly feeling it
+
+<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/cca530ab-b81d-4ecb-88ee-8003c75eccb4" />
 
 
