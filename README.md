@@ -4,6 +4,7 @@ purpose of this is to show via the commit history that the diary is being made p
 
 Plan to improve the diary from now on, making it match the following criteria
 
+### 
 Pain score:
 Pins and needles score:
 Numbness score:
@@ -88,4 +89,14 @@ Activities affected: Impacting my ability to type a little
 Sleep affected: N/A
 Medication taken: N/A
 Duration of episode: Still ongoing, will update when changes
+
+### 1404
+Pain score: 6 maybe at the moment, last episode is still continuing, but the pain is moving a little and getting a burning sensation a little towards the crease in the forearm
+Pins and needles score: 3 still present but coming in waves, more focused on the burning pain
+Numbness score: N/a
+Activities affected: n/a
+Sleep affected: n/a
+Medication taken:n/a
+Duration of episode: n/a
+
 
