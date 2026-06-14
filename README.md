@@ -101,7 +101,7 @@ Sleep affected: N/A
 
 Medication taken: N/A
 
-Duration of episode: Still ongoing, will update when changes
+Duration of episode: Still ongoing, will update when changes, as of 1524 it is still continuing
 
 
 ### 1404
@@ -117,7 +117,22 @@ Sleep affected: n/a
 
 Medication taken:n/a
 
-Duration of episode: n/a
+Duration of episode: n/a, see previous entry
+
+### 1527
+Pain score: 5, the pain has eased up a bit since no burning pain, but then uncomfortable element is still present
+
+Pins and needles score: 5 at the moment, becoming more prevalent across all fingers, but particularly the little finger. No burning sensation currently
+
+Numbness score: N/a
+
+Activities affected: n/a
+
+Sleep affected: n/a
+
+Medication taken:n/a
+
+Duration of episode: n/a, still continuing from 1354 entry
 
 
 
