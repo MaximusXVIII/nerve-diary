@@ -40,4 +40,8 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 
 2316 getting pins and needles across top of the shoulder to the tip of my fingers. not constant but intermittent, with it occuring slightly more on the fingers
 
+## sunday 14th
+
 0658 woken up and the pinky and next finger along feels very achey and numbish. unsure how to describe other than that
+
+0919 lots of pins and needles, especially at the tips of the fingers
