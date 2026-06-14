@@ -5,6 +5,7 @@ purpose of this is to show via the commit history that the diary is being made p
 Plan to improve the diary from now on, making it match the following criteria
 
 ### 
+
 Pain score:
 
 Pins and needles score:
@@ -19,6 +20,7 @@ Medication taken:
 
 Duration of episode:
 
+Note that whilst I have included areas on sleep and medication used, I unlikely will use either, due to the fact that when I am sleeping it doesnt keep me up, and for medication I can usually manage the pain well
 
 That way I got things clearly marked out. Will include this version above as the template
 
@@ -138,5 +140,20 @@ Duration of episode: n/a, still continuing from 1354 entry
 
 Pain stopped from 1354
 
+### 1603
+
+Pain score: 5? Pins and needlkes pain suddenly, alot on the 4 main digits of the left hand, not the thumb. 
+
+Pins and needles score: 6, Happening alot at the knuckle area of the index finger on the left hand side. Also getting some pins at the palm area
+
+Numbness score:2 rough
+
+Activities affected: Nothing atm. 
+
+Sleep affected: N/A
+
+Medication taken: N/A
+
+Duration of episode:Since 1603
 
 
