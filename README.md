@@ -1,6 +1,8 @@
 # nerve-diary
 
-purpose of this is to show via the commit history that the diary is being made periodically and not simply generated. I intend to list every instance where possible, that i have experienced some degree of nerve pain or sensation that doesnt match what is expected. for instance, moving my hand normally, but still getting the pain. I will not be mentioning the instances whereby I have slept for no accurate way of keeping track. Also not mentioning instances where if i havent moved for a while and got pins and needles or similar as a result
+purpose of this is to show via the commit history that the diary is being made periodically and not simply generated. I intend to list every instance where possible, that i have experienced some degree of nerve pain or sensation that doesnt match what is expected. for instance, moving my hand normally, but still getting the pain. I will not be mentioning the instances whereby I have slept for no accurate way of keeping track. Also not mentioning instances where if i havent moved for a while and got pins and needles or similar as a result.
+
+As another point, i will try and document my pain as and when, but if i am at work, then this will be more difficult, so will aim to do it throughout the day, or at least the end of the day
 
 Plan to improve the diary from now on, making it match the following criteria
 
@@ -194,3 +196,20 @@ Duration of episode:
 
 Rough image of where everything is showing
 <img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/0f71b721-5cdc-4fe9-b807-b576e8f15f87" />
+
+
+### 1819
+
+Pain score: 4 settled down, but still uncomfortable
+
+Pins and needles score: 5, still present but not as frequent, no burning sensation but still pins and needles throughout
+
+Numbness score:
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
