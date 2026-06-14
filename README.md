@@ -45,3 +45,5 @@ At desk, 1612, and getting more nerve like numbness in my hand, had a particular
 0658 woken up and the pinky and next finger along feels very achey and numbish. unsure how to describe other than that
 
 0919 lots of pins and needles, especially at the tips of the fingers
+
+1338 getting sharp pain in the pinky for a few seconds. Also pain in the left forearm
