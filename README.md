@@ -213,3 +213,21 @@ Sleep affected:  N/A
 Medication taken:  N/A
 
 Duration of episode:
+
+### 1930
+
+Pain score: 5 at the time, largely feeling of uncomfortable-ness, not like burning or anything
+
+Pins and needles score: 7 pins and needle pains at the moment, alot in the end of the different fingers 
+
+Numbness score: 2
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: since 1930, so around 20 mins, but still continuing
+
+<img width="1602" height="1615" alt="image" src="https://github.com/user-attachments/assets/5ffffc9c-5064-4625-831d-07835203d6e9" />
