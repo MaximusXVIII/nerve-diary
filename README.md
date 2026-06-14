@@ -134,5 +134,9 @@ Medication taken:n/a
 
 Duration of episode: n/a, still continuing from 1354 entry
 
+### 1545
+
+Pain stopped from 1354
+
 
 
