@@ -228,6 +228,23 @@ Sleep affected:  N/A
 
 Medication taken:  N/A
 
-Duration of episode: since 1930, so around 20 mins, but still continuing
+Duration of episode: Stopped at around 2000
 
 <img width="1602" height="1615" alt="image" src="https://github.com/user-attachments/assets/5ffffc9c-5064-4625-831d-07835203d6e9" />
+
+
+### 2023
+
+Pain score: 6 feeling in the 
+
+Pins and needles score:8 sudden pins and needles pain in the the little finger and next available digit. Also getting some pins in the palms and the knuckle of the index finger too
+
+Numbness score: 2 
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: started at 2023
