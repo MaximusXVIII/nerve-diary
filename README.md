@@ -278,3 +278,24 @@ Duration of episode: only seemed to happen when extended
 before going to bed, a little nerve pain like pins and needles in the hand and forearm. slight numbness in fingers
 
 Whilst sleeping, the intensity of pain and pins and needles greatly increased
+
+### Monday 15th 0744
+
+Whilst walking to work, at 0744, I had alot of pins and neededs for no particular reason. This carried on for the majority of the walk till i got to the train station at 0800.
+
+### 1338
+
+Pain score: Pain is quite low, but the feel is particularly uncomfortable, so around a 2 at the moment.
+
+Pins and needles score: 4, quite uncomfortable with the pressure as well
+
+Numbness score: 2
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
+
