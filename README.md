@@ -299,3 +299,19 @@ Medication taken:  N/A
 
 Duration of episode:
 
+
+### 2010
+
+Pain score: 5 at the moment, feeling sharp pins and needles from the elbow crease in the forearm to the ends of my fingers.
+
+Pins and needles score: 7 strong at the end of the fingers
+
+Numbness score: 3 
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:since around 1945 roughly
