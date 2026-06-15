@@ -333,9 +333,9 @@ Medication taken:  N/A
 
 Duration of episode:around 5 mins
 
-### 2136 Experiment
+### 2136 Experiment - Finished at aroun 2150
 
 Because the extending of the arm downwards causes problems, I am curious what happens when I maintain it in one position for 10 mins. Will record this on both arm, keeping the arms flat at a 90 degree angle, then fully extend both arms at 180 degrees and note the difference
 
-
+After resting the arms, I managed to extend the arms down. After around 20 or so seconds the left arm began to go pins and needles. This then began to ease up and not increase so much, but maintain the pain level and pins and needles. Around 90 or so seconds in, my right arm began to get pins and needles. So can see that the pins and needles feels somehow to happen quicker in the left arm
 
