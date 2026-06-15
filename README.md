@@ -68,7 +68,9 @@ pins and needles on left side of forearm and hand (only effecting the little fin
 
 nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to little finger. Will attach image to show,
 
-<img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/6e00baaf-915b-4daa-959d-269573f6bf6b" />
+
+<img width="1318" height="1143" alt="image" src="https://github.com/user-attachments/assets/51f2021d-90f3-4412-8edd-7d2fad6735d2" />
+
 
 
 ### 2010 Pins and needles more in the forearm again. Also got a random pain the middle finger. Proximal? 
