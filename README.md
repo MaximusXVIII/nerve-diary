@@ -179,7 +179,8 @@ Duration of episode: Ongoing
 
 Attached is an image showing where i am currnetly feeling it
 
-<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/ab46ba6c-bf5a-4241-afb9-c34e39a2d6ba" />
+
+<img width="1037" height="989" alt="image" src="https://github.com/user-attachments/assets/f6256767-77f0-4881-a960-ea0baa47a36a" />
 
 
 ### 1640
@@ -200,7 +201,8 @@ Duration of episode:
 
 Rough image of where everything is showing
 
-<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/930bafc8-c58b-4149-9b36-a96586818331" />
+
+<img width="974" height="962" alt="image" src="https://github.com/user-attachments/assets/60b880ee-b310-43f0-a35d-c834f9346694" />
 
 
 ### 1819
@@ -235,7 +237,8 @@ Medication taken:  N/A
 
 Duration of episode: Stopped at around 2000
 
-<img width="1602" height="1615" alt="image" src="https://github.com/user-attachments/assets/d3e9d76f-1020-4379-9ef3-489649db5499" />
+
+<img width="1284" height="1380" alt="image" src="https://github.com/user-attachments/assets/161b903d-cc8a-4603-bcb1-2de1d93af7c3" />
 
 
 ### 2023
