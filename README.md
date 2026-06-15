@@ -68,7 +68,8 @@ pins and needles on left side of forearm and hand (only effecting the little fin
 
 nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to little finger. Will attach image to show,
 
-<img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/5732c568-335c-4309-85ea-e81ef749397e" />
+<img width="752" height="645" alt="image" src="https://github.com/user-attachments/assets/6e00baaf-915b-4daa-959d-269573f6bf6b" />
+
 
 ### 2010 Pins and needles more in the forearm again. Also got a random pain the middle finger. Proximal? 
 
@@ -176,7 +177,8 @@ Duration of episode: Ongoing
 
 Attached is an image showing where i am currnetly feeling it
 
-<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/cca530ab-b81d-4ecb-88ee-8003c75eccb4" />
+<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/ab46ba6c-bf5a-4241-afb9-c34e39a2d6ba" />
+
 
 ### 1640
 
@@ -195,7 +197,8 @@ Medication taken:  N/A
 Duration of episode:
 
 Rough image of where everything is showing
-<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/0f71b721-5cdc-4fe9-b807-b576e8f15f87" />
+
+<img width="3440" height="1277" alt="image" src="https://github.com/user-attachments/assets/930bafc8-c58b-4149-9b36-a96586818331" />
 
 
 ### 1819
@@ -230,7 +233,7 @@ Medication taken:  N/A
 
 Duration of episode: Stopped at around 2000
 
-<img width="1602" height="1615" alt="image" src="https://github.com/user-attachments/assets/5ffffc9c-5064-4625-831d-07835203d6e9" />
+<img width="1602" height="1615" alt="image" src="https://github.com/user-attachments/assets/d3e9d76f-1020-4379-9ef3-489649db5499" />
 
 
 ### 2023
