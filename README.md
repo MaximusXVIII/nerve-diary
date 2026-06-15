@@ -300,7 +300,7 @@ Medication taken:  N/A
 Duration of episode:
 
 
-### 2010
+### 1945
 
 Pain score: 5 at the moment, feeling sharp pins and needles from the elbow crease in the forearm to the ends of my fingers.
 
@@ -314,4 +314,28 @@ Sleep affected:  N/A
 
 Medication taken:  N/A
 
-Duration of episode:since around 1945 roughly
+Duration of episode:ending at 2020
+
+
+### 2128
+
+Pain score: 7 in pain, observed when the arm is extended downwards, feeling degree of pressure in the arms and hands as a result
+
+Pins and needles score: as said above, pins and needles in the area of the arm and hands when extended downwards. Found particularly in the pinky and palm of the hand
+
+Numbness score:0 , feels the same to that of the right arm/hand
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:around 5 mins
+
+### 2136 Experiment
+
+Because the extending of the arm downwards causes problems, I am curious what happens when I maintain it in one position for 10 mins. Will record this on both arm, keeping the arms flat at a 90 degree angle, then fully extend both arms at 180 degrees and note the difference
+
+
+
