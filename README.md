@@ -273,6 +273,7 @@ Medication taken:  N/A
 
 Duration of episode: only seemed to happen when extended
 
+### -----
 
 before going to bed, a little nerve pain like pins and needles in the hand and forearm. slight numbness in fingers
 
