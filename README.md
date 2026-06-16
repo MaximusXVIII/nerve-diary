@@ -339,3 +339,18 @@ Because the extending of the arm downwards causes problems, I am curious what ha
 
 After resting the arms, I managed to extend the arms down. After around 20 or so seconds the left arm began to go pins and needles. This then began to ease up and not increase so much, but maintain the pain level and pins and needles. Around 90 or so seconds in, my right arm began to get pins and needles. So can see that the pins and needles feels somehow to happen quicker in the left arm
 
+### 1230
+
+Pain score: pain of around 4 which is slightly painful but tolerable
+
+Pins and needles score: 5 kind if burning sensations rather than anything else
+
+Numbness score:1
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:10
