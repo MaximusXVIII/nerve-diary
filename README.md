@@ -361,4 +361,7 @@ Duration of episode:10
 Main pain experienced on Tuesday centred around the shoulder pain, was quite severe, 1 lidocaine patch didnt help the pain at all
 
 
-### 
+### 17th June 2058
+
+Brief summary of the pain experienced today. Largely, was focused around shoulder/trapezius pain, which happened consistently throughout the day, typically consisting of a sharp or dull pain of around 7 or 8. However, there were a few times of nerve pain, from the forearm to the palm of the left hand. These episodes lasted around 10 mins at around 11 and 12.
+
