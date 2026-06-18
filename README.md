@@ -399,3 +399,19 @@ Medication taken:  N/A
 
 Duration of episode:
 
+### 1930
+
+Pain score: 0
+
+Pins and needles score: 4 uncomfortableness score at the moment. Largely for the palm and little finger area having some pins and needles. Not severe but still uncomfortable
+
+Numbness score: 0
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
+
