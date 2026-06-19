@@ -361,7 +361,7 @@ Duration of episode:10
 Main pain experienced on Tuesday centred around the shoulder pain, was quite severe, 1 lidocaine patch didnt help the pain at all
 
 
-### June 2058
+### 2058
 
 Brief summary of the pain experienced today. Largely, was focused around shoulder/trapezius pain, which happened consistently throughout the day, typically consisting of a sharp or dull pain of around 7 or 8. However, there were a few times of nerve pain, from the forearm to the palm of the left hand. These episodes lasted around 10 mins at around 11 and 12.
 
@@ -414,4 +414,20 @@ Sleep affected:  N/A
 Medication taken:  N/A
 
 Duration of episode:
+
+### 19th June 0817
+
+Pain score:6 on pain, very sharp pins and needles pain at the moment. This is occuring on the left side of the hand, so palm and little finger experiencing this
+
+Pins and needles score: 8 some quite strong pins and needles and pressure on the left side
+
+Numbness score:1, not much but it is noticeable
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: around a minute in length
 
