@@ -431,3 +431,20 @@ Medication taken:  N/A
 
 Duration of episode: around a minute in length
 
+### 20th june 2025 
+
+Have been unwell since yesterday, so not logging as much as the cold has kept me distracted. For the most part the pain has been manageable, but some occasions has occured whereby the pain has been more noticebable despite the cold.
+
+Pain score: 5 due to burning sensation in the arm, more in the hand but some in the forearm.
+
+Pins and needles score: 8 the pins and needles that accompanied the burning was quite strong. This occured was relatively short and sharp, but very intense
+
+Numbness score:0 not really a numbing sorta incident
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:N/A
