@@ -448,3 +448,7 @@ Sleep affected:  N/A
 Medication taken:  N/A
 
 Duration of episode:N/A
+
+### 21st june
+
+Been dealing with the cold more today. Pain and pins and needles occured less than usual. only one incident above roughly a 5 in pain. pins and needles scores throughout were between 5-7 on average, with some being short and sharp and others long and dull
