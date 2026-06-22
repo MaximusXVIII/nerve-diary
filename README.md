@@ -8,6 +8,8 @@ Plan to improve the diary from now on, making it match the following criteria
 
 another thing worth noting, is that there will be spelling mistakes and alot of them at that. github has no spell check but i will try my best
 
+Also, i am trying to mitigate the chance of pain occuring, both for my shoulder or the nerve pain. For the shoulder and nerves, am consistently carrying bags on the opposite side of the shoulder, so that the validity of the pain is not questioned by an external factor like a heavy bag. also didnt want to potentilaly press on any nerves with my bag. whilst i cannot always live like this, to avoid any doubt, this felt the best route to take. am also taking painkillers or similar to mitigate the pain however a point will be reached when the pain will be guaged in a non pain managed way to see if still present. the biggest aggravater is the manual labor or houehold chores of work. hoovering for example is somethign i could have no issue with before but now cannot manage for too long due to the pain in my shoulders and nerve pain
+
 ### 
 
 Pain score:
@@ -470,5 +472,21 @@ Sleep affected:  N/A
 Medication taken:  N/A
 
 Duration of episode: 2 mins
+
+### 2215
+
+Pain score: 7 quite strong prior to sleeping in the fingers on the left hand side and forearm area of the arm
+
+Pins and needles score: 7 again very string pain and pins needles effect
+
+Numbness score:2 alight numbness in the fingers
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: shoulder has been consistent since 5 ish and nerve is since i went to bed around 9:50?
 
 
