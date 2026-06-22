@@ -6,6 +6,8 @@ As another point, i will try and document my pain as and when, but if i am at wo
 
 Plan to improve the diary from now on, making it match the following criteria
 
+another thing worth noting, is that there will be spelling mistakes and alot of them at that. github has no spell check but i will try my best
+
 ### 
 
 Pain score:
@@ -452,3 +454,21 @@ Duration of episode:N/A
 ### 21st june
 
 Been dealing with the cold more today. Pain and pins and needles occured less than usual. only one incident above roughly a 5 in pain. pins and needles scores throughout were between 5-7 on average, with some being short and sharp and others long and dull
+
+### 22nd june 0755
+
+Pain score: 1 more uncomfortable pins and needles than anything else
+
+Pins and needles score: 3 on the scale at the mo. just pressure and uncomfortableness
+
+Numbness score:0
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode: 2 mins
+
+
