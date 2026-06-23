@@ -520,6 +520,22 @@ Sleep affected:  N/A
 
 Medication taken:  N/A
 
-Duration of episode:
+Duration of episode:2 mins
+
+### 2216
+
+Pain score: uncomfortable around the hand and forearm, but manageable. Maybe around a 3?
+
+Pins and needles score: around a 5, this has gone up from hand to the forearm roughly. Quite sharp across all the areas
+
+Numbness score:
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:2 mins
 
 
