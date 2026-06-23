@@ -506,4 +506,20 @@ Medication taken:  N/A
 
 Duration of episode:
 
+### 1803
+
+Pain score: 7 pain in the knuckles area of the little to middle finger area
+
+Pins and needles score: 2, not very much
+
+Numbness score:
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
+
 
