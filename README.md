@@ -490,3 +490,20 @@ Medication taken:  N/A
 Duration of episode: shoulder has been consistent since 5 ish and nerve is since i went to bed around 9:50?
 
 
+### 23 June 1145
+
+Pain score: 6 pain on the upper arm, extending further up than ever done before
+
+Pins and needles score: 5 this is showing higher than before, not too painful, and is quite brief.
+
+Numbness score: 0 
+
+Activities affected: N/A
+
+Sleep affected:  N/A
+
+Medication taken:  N/A
+
+Duration of episode:
+
+
