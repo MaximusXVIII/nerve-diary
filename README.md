@@ -538,4 +538,8 @@ Medication taken:  N/A
 
 Duration of episode:2 mins
 
+### 26th june 2204
+
+update from the day. pain with the pins and needles and shoulder. pins and needles pain was prominent whilst driving at a score of 7. pain in shoulder was of 8 and sharp. some general pressure but was fine otherwise
+
 
