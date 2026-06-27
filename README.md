@@ -407,4 +407,8 @@ Numbness score: **0**
 Activities affected: N/A  
 Sleep affected: N/A  
 Medication taken: N/A  
-Duration of episode: since around **10:30** — I’ll update when I know.
+Duration of episode: since around **10:30** — I’ll update when I know. it stopped after 10 mins roughly
+
+### 23:58
+
+Pins and needles score: **5** currently. 
