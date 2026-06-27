@@ -1,545 +1,410 @@
-# nerve-diary
+# Nerve diary
 
-purpose of this is to show via the commit history that the diary is being made periodically and not simply generated. I intend to list every instance where possible, that i have experienced some degree of nerve pain or sensation that doesnt match what is expected. for instance, moving my hand normally, but still getting the pain. I will not be mentioning the instances whereby I have slept for no accurate way of keeping track. Also not mentioning instances where if i havent moved for a while and got pins and needles or similar as a result.
+**Purpose:** This diary is meant to show—via commit history—that the entries are being recorded periodically, not generated. I intend to list every instance (where possible) that I experience some degree of nerve pain or sensation that doesn’t match what I’d normally expect (for example, moving my hand normally but still getting pain).  
 
-As another point, i will try and document my pain as and when, but if i am at work, then this will be more difficult, so will aim to do it throughout the day, or at least the end of the day
+I will **not** include instances where I slept without a reliable way to track accurately. I also won’t include instances where I haven’t moved for a while and then get pins and needles (or similar) as a direct result.
 
-Plan to improve the diary from now on, making it match the following criteria
+**Timing/recording:** I’ll document my pain as and when I can. If I’m at work, it’s harder to record immediately, so I’ll aim to log throughout the day, or at least at the end of the day.
 
-another thing worth noting, is that there will be spelling mistakes and alot of them at that. github has no spell check but i will try my best
+**Spelling:** There will likely be spelling mistakes. GitHub doesn’t provide spellcheck, but I’ll do my best.
 
-Also, i am trying to mitigate the chance of pain occuring, both for my shoulder or the nerve pain. For the shoulder and nerves, am consistently carrying bags on the opposite side of the shoulder, so that the validity of the pain is not questioned by an external factor like a heavy bag. also didnt want to potentilaly press on any nerves with my bag. whilst i cannot always live like this, to avoid any doubt, this felt the best route to take. am also taking painkillers or similar to mitigate the pain however a point will be reached when the pain will be guaged in a non pain managed way to see if still present. the biggest aggravater is the manual labor or houehold chores of work. hoovering for example is somethign i could have no issue with before but now cannot manage for too long due to the pain in my shoulders and nerve pain
+**Mitigating aggravation:** I’m trying to reduce the chance of pain occurring, both for my shoulder and for the nerve pain. I’ve been consistently carrying bags on the **opposite** side of the shoulder to avoid external factors (like a heavy bag) making the pain seem more suspicious or inconsistent. I also wanted to avoid potentially pressing on nerves with the bag.  
 
-### 
+I can’t always live like this, but to avoid any doubt, this felt like the best route. I’m also taking painkillers or similar to mitigate the pain, but at some point I intend to gauge the pain without pain management to see whether it’s still present.
 
-Pain score:
+The biggest aggravator appears to be manual labor and household chores (for example, hoovering). Something I could previously do for a while without issue has become harder due to shoulder pain and nerve pain.
 
-Pins and needles score:
+---
 
-Numbness score:
+### Template to use for each entry
 
-Activities affected: N/A
+### Pain score:
+### Pins and needles score:
+### Numbness score:
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:
 
-Sleep affected:  N/A
+Note: Although I’ve included fields for sleep and medication used, I’m unlikely to record them often because sleep doesn’t usually keep me awake, and medication generally keeps the pain manageable.
 
-Medication taken:  N/A
+This version above will be used as the template going forward.
 
-Duration of episode:
+---
 
-Note that whilst I have included areas on sleep and medication used, I unlikely will use either, due to the fact that when I am sleeping it doesnt keep me up, and for medication I can usually manage the pain well
+## Tuesday 9th June
+**Weird vague feeling** like pins and needles, but much longer and with no specific reason.
 
-That way I got things clearly marked out. Will include this version above as the template
+## Thursday 11th
+Odd pins feeling when walking home.
 
-## Tuesday 9th June 
-weird vague feeling like pins and needles but much longer and no reason in particular
+## Friday 12th
+At the GP, I had a sensation test and noted less sensation on the **left** side.  
 
-## Thursday 11th 
-odd pins feeling when walking home
-
-## Friday 12th 
-at gp did sensation test and noted less sensation in left side
-while walking home after gp, the ends of my fingers had a weird pin or pinchy feeling. Before going to sleep, also had pins and needles in my arm for no real reason
+While walking home after the GP, the ends of my fingers had a weird pin/pinchy feeling. Before going to sleep, I also had pins and needles in my arm with no real reason.
 
 ## Saturday 13th
-at desk, keep getting persistent nerve pins needles feeling. no abnormla positions or anything. my right side hasnt been numb despite being at the same position.
+At my desk, I keep getting persistent nerve pins and needles. No abnormal positions that I can identify. My **right** side hasn’t been numb even though I’ve been in the same position.
 
+I laid down in bed at **11:00**, and the pain wasn’t entirely present, but I still had discomfort from the nerve sensation in my left hand and fingers.
 
-laid down in bed at 1100 and the pain is not entirely present but still getting some discomfort from the nerve sensation in my left hand and fingers
+While driving, I felt pain in the centre of my hand—lower palm.
 
-while driving, pain in centre of hand, lower palm?
+### 16:12
+Getting more nerve-like numbness in my hand. A particular moment of pain occurred on the palm point below the little finger.
 
-### 1612 
+### 17:15
+Numbness feels a little better than yesterday (GP). It’s mainly at the tips of my fingers. Still got some tingling.
 
-and getting more nerve like numbness in my hand, had a particular moment of pain on the palm point below the little finger.
+### 17:20
+Sharp nerve pain in my index finger—fleeting moment, but it was something I hadn’t felt before.
 
-### 1715 
+### 19:08
+Nerve pain under the little finger / palm area. Feels like they are numb.
 
-Numbness feels a little better than yesterday at GP at the tips of my fingers and such. Still got some tingly feeling though in the hand
+### 19:36
+Pins and needles on the left forearm and hand, affecting only the little finger.
 
-### 1720 
-
-Got a sharp nerve pain in my index finger, was a fleeting moment, but never felt that before
-
-### 1908 
-
-nerve pain under the little finger / palm area, feels like they are numb 
-
-### 1936 
-
-pins and needles on left side of forearm and hand (only effecting the little finger)
-
-### 2004 
-
-nerve pain in the forearm next to the elbow. Also, getting pins and needles for no reason in fingers index to little finger. Will attach image to show,
-
+### 20:04
+Nerve pain in the forearm next to the elbow. Also getting pins and needles for no reason in the fingers from index to little. I’ll attach an image showing where.
 
 <img width="1318" height="1143" alt="image" src="https://github.com/user-attachments/assets/51f2021d-90f3-4412-8edd-7d2fad6735d2" />
 
-
-
-### 2010 Pins and needles more in the forearm again. Also got a random pain the middle finger. Proximal? 
+### 20:10
+Pins and needles again, more in the forearm. Also got a random pain in the middle finger (proximal?).
 
 <img width="410" height="389" alt="image" src="https://github.com/user-attachments/assets/e1f9b2c7-c11e-46a4-89c4-c4683d330ae6" />
 
-### 2316 
+### 23:16
+Getting pins and needles across the top of the shoulder to the tip of my fingers. Not constant—intermittent. It occurred slightly more in the fingers.
 
-getting pins and needles across top of the shoulder to the tip of my fingers. not constant but intermittent, with it occuring slightly more on the fingers
+## Sunday 14th
 
-## sunday 14th
+### 06:58
+Woken up and the little finger and the next finger along feel very achey and numbish. Not sure how else to describe it.
 
-### 0658 
+### 09:19
+Lots of pins and needles, especially at the tips of the fingers.
 
-woken up and the little finger and next finger along feels very achey and numbish. unsure how to describe other than that
+### 13:38
+Sharp pain in the little finger for a few seconds. Also pain in the left forearm.
 
-### 0919 
+### 13:54
+Pain score: **5** — low-level discomfort. It isn’t impacting my ability to do general jobs around the flat, but it is uncomfortable.  
 
-lots of pins and needles, especially at the tips of the fingers
+Pins and needles score: **3** — I can feel the sensation, but it isn’t too bad and I’m not very impacted. The middle finger is also getting some pain, aligned more with the pins and needles.  
 
-### 1338 
+Numbness score: **1** — I can feel some dullness compared to normal, but it’s not too bad.  
 
-getting sharp pain in the little finger for a few seconds. Also pain in the left forearm
+Activities affected: Impacting my ability to type a little  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Still ongoing. Will update when changes occur. As of **15:24**, it is still continuing.
 
-### 1354 
-Pain score: 5 at the moment, low level discomfort, not impacting my ability to do general jobs around the flat, but this is unfortable
+### 14:04
+Pain score: **6** at the moment. The last episode is still continuing, but the pain is moving and getting a burning sensation towards the crease in the forearm.  
 
-Pins and needles score: probably a moderate 3, can feel the sensation, but isnt too bad that I am impacted. Middle finger is also getting some pain aswell, but more alligned with pins and needles
+Pins and needles score: **3** — still present but coming in waves, more focused on the burning pain.  
 
-Numbness score: Probably a 1, can feel some dullness in comparison, but not too bad
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A (see previous entry)
 
-Activities affected: Impacting my ability to type a little
+### 15:27
+Pain score: **5** — pain has eased up a bit since the burning pain stopped, but the uncomfortable element is still present.  
 
-Sleep affected: N/A
+Pins and needles score: **5** — becoming more prevalent across all fingers, particularly the little finger. No burning sensation currently.  
 
-Medication taken: N/A
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Still continuing from the **13:54** entry.
 
-Duration of episode: Still ongoing, will update when changes, as of 1524 it is still continuing
+### 15:45
+Pain stopped (from the 13:54 episode).
 
+### 16:03
+Pain score: **5?** Sudden pins and needles pain—quite a lot—mainly in the four main digits of the left hand (not the thumb).  
 
-### 1404
-Pain score: 6 maybe at the moment, last episode is still continuing, but the pain is moving a little and getting a burning sensation a little towards the crease in the forearm
+Pins and needles score: **6** — happening a lot at the knuckle area of the index finger on the left-hand side. Also some pins in the palm area.  
 
-Pins and needles score: 3 still present but coming in waves, more focused on the burning pain
+Numbness score: **2** (rough)  
+Activities affected: Nothing at the moment  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: **16:03–16:15**
 
-Numbness score: N/a
+### 16:19
+Pain score: **7** — pain/tingling increased a bit, plus pain under the forearm. Not as persistent, but still occurring.  
 
-Activities affected: n/a
+Pins and needles score: **8** — brief but quite sharp pain felt.  
 
-Sleep affected: n/a
+Numbness score: **2**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Ongoing  
 
-Medication taken:n/a
-
-Duration of episode: n/a, see previous entry
-
-### 1527
-Pain score: 5, the pain has eased up a bit since no burning pain, but then uncomfortable element is still present
-
-Pins and needles score: 5 at the moment, becoming more prevalent across all fingers, but particularly the little finger. No burning sensation currently
-
-Numbness score: N/a
-
-Activities affected: n/a
-
-Sleep affected: n/a
-
-Medication taken:n/a
-
-Duration of episode: n/a, still continuing from 1354 entry
-
-### 1545
-
-Pain stopped from 1354
-
-### 1603
-
-Pain score: 5? Pins and needlkes pain suddenly, alot on the 4 main digits of the left hand, not the thumb. 
-
-Pins and needles score: 6, Happening alot at the knuckle area of the index finger on the left hand side. Also getting some pins at the palm area
-
-Numbness score:2 rough
-
-Activities affected: Nothing atm. 
-
-Sleep affected: N/A
-
-Medication taken: N/A
-
-Duration of episode: 1603 - 1615
-
-### 1619
-
-Pain score: 7 - pain in the pins and needles amped up a bit, as well as pain under the forear. Not as persistent but still occuring
-
-Pins and needles score: 8 - Brief but quite sharp pain felt
-
-Numbness score: 2
-
-Activities affected: N/A
-
-Sleep affected: N/A
-
-Medication taken: N/A
-
-Duration of episode: Ongoing
-
-Attached is an image showing where i am currnetly feeling it
-
+Attached is an image showing where I’m currently feeling it.
 
 <img width="1037" height="989" alt="image" src="https://github.com/user-attachments/assets/f6256767-77f0-4881-a960-ea0baa47a36a" />
 
+### 16:40
+Pain score: **4** — pain subsided a lot, but still feeling uncomfortable in the arm.  
 
-### 1640
+Pins and needles score: **7** — pain is all over the left arm currently, random intervals and positioning. It also appeared closer towards under the armpit, which felt a bit different.  
 
-Pain score: 4 - pain subsided alot, but still feeling uncomfortable with the arm and such
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A  
 
-Pins and needles score: 7 Pain is all over the left arm currently, random intervals and positioning. also appeared closer towards under the armpit which felt a bit different
-
-Numbness score:
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-Rough image of where everything is showing
-
+Rough image showing where everything is indicating.
 
 <img width="974" height="962" alt="image" src="https://github.com/user-attachments/assets/60b880ee-b310-43f0-a35d-c834f9346694" />
 
+### 18:19
+Pain score: **4** — settled down, but still uncomfortable.  
 
-### 1819
+Pins and needles score: **5** — still present but not as frequent. No burning sensation, but still pins and needles throughout.  
 
-Pain score: 4 settled down, but still uncomfortable
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
 
-Pins and needles score: 5, still present but not as frequent, no burning sensation but still pins and needles throughout
+### 19:30
+Pain score: **5** — largely an uncomfortable feeling, not like burning.  
 
-Numbness score:
+Pins and needles score: **7** — pins and needle pain at the moment, a lot in the ends of the different fingers.  
 
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-### 1930
-
-Pain score: 5 at the time, largely feeling of uncomfortable-ness, not like burning or anything
-
-Pins and needles score: 7 pins and needle pains at the moment, alot in the end of the different fingers 
-
-Numbness score: 2
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode: Stopped at around 2000
-
+Numbness score: **2**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Stopped at around 20:00.
 
 <img width="1284" height="1380" alt="image" src="https://github.com/user-attachments/assets/161b903d-cc8a-4603-bcb1-2de1d93af7c3" />
 
+### 20:23
+Pain score: **6** (feeling in the—[text incomplete])  
 
-### 2023
+Pins and needles score: **8** — sudden pins and needles in the little finger and adjacent digit. Also pins in the palms and the knuckle of the index finger.  
 
-Pain score: 6 feeling in the 
+Numbness score: **2**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: ~20:23–20:30 (roughly)
 
-Pins and needles score:8 sudden pins and needles pain in the the little finger and next available digit. Also getting some pins in the palms and the knuckle of the index finger too
+### 20:38
+Pain score: **5** — when the arm is extended downwards, there’s an increase in pressure.  
 
-Numbness score: 2 
+Pins and needles score: **9** — as the arm was extended, the pins and needles greatly increased.  
 
-Activities affected: N/A
+Numbness score: **3**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Only seemed to happen when extended.
 
-Sleep affected:  N/A
+### 22:00
+Before going to bed: a little nerve pain like pins and needles in the hand and forearm, plus slight numbness in the fingers.  
 
-Medication taken:  N/A
+While sleeping: the intensity of pain and pins and needles greatly increased.
 
-Duration of episode:  2023-30? roughly
+## Monday 15th
 
-### 2038
+### 07:44
+While walking to work, at 07:44 I had a lot of pins and needles for no particular reason. This carried on for most of the walk until I got to the train station at 08:00.
 
-Pain score: 5 when the arm was extended down it had an increase in pressure
+### 13:38
+Pain score: Pain is quite low, but the feeling is particularly uncomfortable—around a **2** at the moment.  
 
-Pins and needles score:9 as the arm was extended the pins and needles greatly increased
+Pins and needles score: **4** — quite uncomfortable, including with the pressure.  
 
-Numbness score: 3
+Numbness score: **2**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
 
-Activities affected: N/A
+### 19:45
+Pain score: **5** — sharp pins and needles from the elbow crease in the forearm to the ends of my fingers.  
 
-Sleep affected:  N/A
+Pins and needles score: **7** — strong at the ends of the fingers.  
 
-Medication taken:  N/A
+Numbness score: **3**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Ended at around **20:20**.
 
-Duration of episode: only seemed to happen when extended
+### 21:28
+Pain score: **7** — pain observed when the arm is extended downwards; there’s a degree of pressure in the arms and hands as a result.  
 
-### 2200
+Pins and needles score: As above—pins and needles in the arm and hands when extended downwards, particularly in the pinky and palm of the hand.  
 
-before going to bed, a little nerve pain like pins and needles in the hand and forearm. slight numbness in fingers
+Numbness score: **0** — feels the same as the right arm/hand.  
 
-Whilst sleeping, the intensity of pain and pins and needles greatly increased
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Around **5 minutes**.
 
-### Monday 15th 0744
+### 21:36 Experiment (finished around 21:50)
+Because extending my arm downwards causes problems, I’m curious what happens if I keep it in one position for 10 minutes. I will record this on both arms: arms flat at a 90-degree angle, then fully extended at 180 degrees, and note the difference.
 
-Whilst walking to work, at 0744, I had alot of pins and neededs for no particular reason. This carried on for the majority of the walk till i got to the train station at 0800.
+After resting the arms, I managed to extend them down. After around 20 seconds, the left arm began to go pins and needles. It eased up and didn’t increase as much, but kept the pain/pins-and-needles at a maintained level. Around 90 seconds in, my right arm began to get pins and needles. It looks like the pins and needles happen quicker in the left arm.
 
-### 1338
+## Tuesday 17th
+### 12:30
+Pain score: Around **4** — slightly painful but tolerable.  
 
-Pain score: Pain is quite low, but the feel is particularly uncomfortable, so around a 2 at the moment.
+Pins and needles score: **5** — kind of burning sensations rather than anything else.  
 
-Pins and needles score: 4, quite uncomfortable with the pressure as well
-
-Numbness score: 2
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-
-### 1945
-
-Pain score: 5 at the moment, feeling sharp pins and needles from the elbow crease in the forearm to the ends of my fingers.
-
-Pins and needles score: 7 strong at the end of the fingers
-
-Numbness score: 3 
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:ending at 2020
-
-
-### 2128
-
-Pain score: 7 in pain, observed when the arm is extended downwards, feeling degree of pressure in the arms and hands as a result
-
-Pins and needles score: as said above, pins and needles in the area of the arm and hands when extended downwards. Found particularly in the pinky and palm of the hand
-
-Numbness score:0 , feels the same to that of the right arm/hand
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:around 5 mins
-
-### 2136 Experiment - Finished at aroun 2150
-
-Because the extending of the arm downwards causes problems, I am curious what happens when I maintain it in one position for 10 mins. Will record this on both arm, keeping the arms flat at a 90 degree angle, then fully extend both arms at 180 degrees and note the difference
-
-After resting the arms, I managed to extend the arms down. After around 20 or so seconds the left arm began to go pins and needles. This then began to ease up and not increase so much, but maintain the pain level and pins and needles. Around 90 or so seconds in, my right arm began to get pins and needles. So can see that the pins and needles feels somehow to happen quicker in the left arm
-
-
-
-### Tuesday 17th 1230
-
-Pain score: pain of around 4 which is slightly painful but tolerable
-
-Pins and needles score: 5 kind if burning sensations rather than anything else
-
-Numbness score:1
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:10
+Numbness score: **1**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: **10**
 
 ### ~
-Main pain experienced on Tuesday centred around the shoulder pain, was quite severe, 1 lidocaine patch didnt help the pain at all
+Main pain experienced on Tuesday centered around the shoulder pain. It was quite severe; one lidocaine patch didn’t help at all.
+
+### 20:58
+Brief summary of pain experienced today: it was largely focused around shoulder/trapezius pain, which happened consistently throughout the day. Typically it was a sharp or dull pain around **7–8**. There were also a few times of nerve pain from the forearm to the palm of the left hand. Those episodes lasted around **10 minutes**, around **11:00** and **12:00**.
+
+## 18th June
+
+### 06:08
+Pain score: **2** — quite low, but still present.  
+
+Pins and needles score: **5** — getting a bunch of nerve pain in the ends of the digits on my left hand, particularly the little finger.  
+
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
+
+### 08:29
+Pain score: **4** while walking—weird uncomfortableness and pressure in the arm.  
+
+Pins and needles score: **7** at the moment—going from the forearm to the end of the little fingers and the one next to it.  
+
+Numbness score: **2**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
 
-
-### 2058
-
-Brief summary of the pain experienced today. Largely, was focused around shoulder/trapezius pain, which happened consistently throughout the day, typically consisting of a sharp or dull pain of around 7 or 8. However, there were a few times of nerve pain, from the forearm to the palm of the left hand. These episodes lasted around 10 mins at around 11 and 12.
-
-
-### 18th june 0608
-
-Pain score: pain is at a 2, quite low, but still present
-
-Pins and needles score: 5 , getting a bunch of nerve pain in the end of the digits on my left hadn, particularly the little finger
-
-Numbness score: N/A
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:  N/A
-
-
-### 0829
-
-Pain score: 4 whilst walking, weird uncomfortableness and pressure in the arm
-
-Pins and needles score: 7 at the moment , going from the forearm to end of the little fingers and the one next to it
-
-Numbness score:2
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-### 1930
-
-Pain score: 0
-
-Pins and needles score: 4 uncomfortableness score at the moment. Largely for the palm and little finger area having some pins and needles. Not severe but still uncomfortable
-
-Numbness score: 0
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-### 19th June 0817
-
-Pain score:6 on pain, very sharp pins and needles pain at the moment. This is occuring on the left side of the hand, so palm and little finger experiencing this
-
-Pins and needles score: 8 some quite strong pins and needles and pressure on the left side
-
-Numbness score:1, not much but it is noticeable
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode: around a minute in length
-
-### 20th june 2025 
-
-Have been unwell since yesterday, so not logging as much as the cold has kept me distracted. For the most part the pain has been manageable, but some occasions has occured whereby the pain has been more noticebable despite the cold.
-
-Pain score: 5 due to burning sensation in the arm, more in the hand but some in the forearm.
-
-Pins and needles score: 8 the pins and needles that accompanied the burning was quite strong. This occured was relatively short and sharp, but very intense
-
-Numbness score:0 not really a numbing sorta incident
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:N/A
-
-### 21st june
-
-Been dealing with the cold more today. Pain and pins and needles occured less than usual. only one incident above roughly a 5 in pain. pins and needles scores throughout were between 5-7 on average, with some being short and sharp and others long and dull
-
-### 22nd june 0755
-
-Pain score: 1 more uncomfortable pins and needles than anything else
-
-Pins and needles score: 3 on the scale at the mo. just pressure and uncomfortableness
-
-Numbness score:0
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode: 2 mins
-
-### 2215
-
-Pain score: 7 quite strong prior to sleeping in the fingers on the left hand side and forearm area of the arm
-
-Pins and needles score: 7 again very string pain and pins needles effect
-
-Numbness score:2 alight numbness in the fingers
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode: shoulder has been consistent since 5 ish and nerve is since i went to bed around 9:50?
-
-
-### 23 June 1145
-
-Pain score: 6 pain on the upper arm, extending further up than ever done before
-
-Pins and needles score: 5 this is showing higher than before, not too painful, and is quite brief.
-
-Numbness score: 0 
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:
-
-### 1803
-
-Pain score: 7 pain in the knuckles area of the little to middle finger area
-
-Pins and needles score: 2, not very much
-
-Numbness score:
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:2 mins
-
-### 2216
-
-Pain score: uncomfortable around the hand and forearm, but manageable. Maybe around a 3?
-
-Pins and needles score: around a 5, this has gone up from hand to the forearm roughly. Quite sharp across all the areas
-
-Numbness score:
-
-Activities affected: N/A
-
-Sleep affected:  N/A
-
-Medication taken:  N/A
-
-Duration of episode:2 mins
-
-### 26th june 2204
-
-update from the day. pain with the pins and needles and shoulder. pins and needles pain was prominent whilst driving at a score of 7. pain in shoulder was of 8 and sharp. some general pressure but was fine otherwise
-
-
+### 19:30
+Pain score: **0**  
+Pins and needles score: **4** — uncomfortableness at the moment, largely in the palm and little finger area. Not severe but still uncomfortable.  
+
+Numbness score: **0**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
+
+## 19th June
+
+### 08:17
+Pain score: **6** — very sharp pins and needles at the moment. This is on the left side of the hand: palm and little finger primarily.  
+
+Pins and needles score: **8** — fairly strong pins and needles and pressure on the left side.  
+
+Numbness score: **1** — not much, but noticeable.  
+
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Around **1 minute**.
+
+## 20th June 2025
+I’ve been unwell since yesterday, so I haven’t logged as much as the cold has kept me distracted. For the most part the pain has been manageable, but there were some occasions where the pain was more noticeable despite the cold.
+
+Pain score: **5** — burning sensation in the arm, more in the hand but some in the forearm.  
+Pins and needles score: **8** — pins and needles that accompanied the burning were quite strong. This was relatively short and sharp, but very intense.  
+Numbness score: **0** — not really a numbness incident.  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
+
+## 21st June
+Dealing with the cold more today. Pain and pins and needles occurred less than usual. Only one incident above roughly a **5** in pain. Pins and needles scores throughout were between **5–7** on average, with some being short and sharp and others long and dull.
+
+## 22nd June
+
+### 07:55
+Pain score: **1** — more uncomfortable pins and needles than anything else.  
+Pins and needles score: **3** at the moment—just pressure and uncomfortableness.  
+Numbness score: **0**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: **2 minutes**
+
+### 22:15
+Pain score: **7** — quite strong prior to sleeping, in the fingers on the left-hand side and forearm area of the arm.  
+Pins and needles score: **7** again—very strong.  
+Numbness score: **2** — slight numbness in the fingers.  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: Shoulder has been consistent since around 05:00-ish. Nerve symptoms since I went to bed around **21:50**?
+
+## 23 June
+
+### 11:45
+Pain score: **6** — pain on the upper arm, extending further up than I’ve done before.  
+Pins and needles score: **5** — showing higher than before, not too painful, and quite brief.  
+Numbness score: **0**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: N/A
+
+### 18:03
+Pain score: **7** — pain in the knuckles area of the little to middle finger area.  
+Pins and needles score: **2** — not very much.  
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: **2 minutes**
+
+### 22:16
+Pain score: uncomfortable around the hand and forearm, but manageable. Maybe around a **3**.  
+
+Pins and needles score: around a **5**. This has gone up from the hand to the forearm roughly. Quite sharp across all areas.  
+
+Numbness score: N/A  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: **2 mins**
+
+### 26th June 22:04
+Update from the day: pain involving the pins and needles, plus shoulder pain. Pins and needles were prominent while driving, around **7**.  
+
+Shoulder pain was around **8** and sharp. Some general pressure, but otherwise I was okay.
+
+### 27th June 10:31
+Pain score: **0** at the moment, but this isn’t the main complaint.  
+
+Pins and needles score: **5** for the pins and needles discomfort, happening largely at the ends of my fingers.  
+
+Numbness score: **0**  
+Activities affected: N/A  
+Sleep affected: N/A  
+Medication taken: N/A  
+Duration of episode: since around **10:30** — I’ll update when I know.
