@@ -17,7 +17,7 @@ The biggest aggravator appears to be manual labor and household chores (for exam
 ---
 
 ### Template to use for each entry
-
+##
 ### Pain score:
 ### Pins and needles score:
 ### Numbness score:
@@ -410,5 +410,14 @@ Medication taken: N/A
 Duration of episode: since around **10:30** — I’ll update when I know. it stopped after 10 mins roughly
 
 ### 23:58
+
+## 28th June
+### Pain score:4 vagueness when driving. Not too bad, but like i almost had a workout and over did it. Just a dull ache
+### Pins and needles score: 8, was quite bad, not too sure why. Noticing that when driving the pain in the arms seem to occur more frequently
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: when driving, the pain occured intermittently throughout the drive, around 10 mins of pain 4 times over a 15 minute period
 
 Pins and needles score: **5** currently. 
