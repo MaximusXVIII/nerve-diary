@@ -420,4 +420,13 @@ Duration of episode: since around **10:30** — I’ll update when I know. it st
 ### Medication taken: N/A
 ### Duration of episode: when driving, the pain occured intermittently throughout the drive, around 10 mins of pain 4 times over a 15 minute period
 
+## 29th June
+### Pain score:7 currently but this seemingly only been noticed when my shoulder has not been hurting. 
+### Pins and needles score:0
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:0
+
 Pins and needles score: **5** currently. 
