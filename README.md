@@ -430,3 +430,14 @@ Duration of episode: since around **10:30** — I’ll update when I know. it st
 ### Duration of episode:0
 
 Pins and needles score: **5** currently. 
+
+
+## 30th June
+### Pain score:7 again today, this isnt based on one specific instance as been in a lot of meetings.
+### Pins and needles score:8 as quite bad today across meetings. noticeably sharp in the forearm which was bad
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:n/a
+
