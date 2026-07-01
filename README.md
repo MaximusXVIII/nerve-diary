@@ -441,3 +441,6 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode:n/a
 
+## 1st July 1754
+### Pain in the wrist of a score around 7 which is quite sharp.
+### Pins and needles score of around 6, more in the forearm
