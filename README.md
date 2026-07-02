@@ -443,4 +443,18 @@ Pins and needles score: **5** currently.
 
 ## 1st July 1754
 ### Pain in the wrist of a score around 7 which is quite sharp.
-### Pins and needles score of around 6, more in the forearm
+### Pins and needles score of around 6, more in the 
+
+
+
+
+## 2nd july 1254
+### Pain score:3 not major but pain in hand is oresent in a light sensation
+### Pins and needles score: 8 pain in the hand particularly the little finger currently
+### Numbness score:0 numbness seems to be getting better
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:currently lasted 5 mins
+
+
