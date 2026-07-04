@@ -459,4 +459,9 @@ Pins and needles score: **5** currently.
 
 ## 3rd July 2118
 ### pain of 7 through the forearm, with sharp moments. happening at concert for time since 1849
-### pins of 8 in pinky quite stron
+### pins of 8 in pinky quite strong
+
+## 4th july 0108
+### pain of 5 in the arms, decreased from previous but pressure is still present and uncomfortable 
+### pins of 7 showing again a decrease, across hand more generally.
+### note - the medication seems to be having some effect, at least in comparison to the original entries. however am still getting alot of occurences
