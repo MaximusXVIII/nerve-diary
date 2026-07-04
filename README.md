@@ -465,3 +465,16 @@ Pins and needles score: **5** currently.
 ### pain of 5 in the arms, decreased from previous but pressure is still present and uncomfortable 
 ### pins of 7 showing again a decrease, across hand more generally.
 ### note - the medication seems to be having some effect, at least in comparison to the original entries. however am still getting alot of occurences
+
+
+
+
+## 0746
+### Pain score: 8 quite bad for both pressure and general pain. it is noted that pain and pins levels seem to increase while laying horizontal/ flat in bed. pressure was quite uncomfortable too
+### Pins and needles score:9 this is probably the worst night i have had it. when i was sleeping i felt it as well as before and after sleeping. i can say that the pins definitely was present before sleeping, and not a result of sleeping on my arm or anything
+### Numbness score:1 currently
+### Activities affected: N/A
+### Sleep affected: Slightly 
+### Medication taken: Standard amitryptiline or something
+### Duration of episode: all night on and off covering around 6 hours of time. still currently occuring
+
