@@ -483,4 +483,4 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: since woke up at 6
+### Duration of episode: since woke up at 6. Can confirm now the pain stopped at around 0930
