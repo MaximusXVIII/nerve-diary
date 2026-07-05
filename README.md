@@ -484,3 +484,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode: since woke up at 6. Can confirm now the pain stopped at around 0930
+
+## 1124
+### Pain score: 7 pressure has returned. present at the wrist of arm to tips of fingers
+### Pins and needles score: 6 persistent, heartbeat esque intervals or pain. happening mainly at the hand
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: 10 mins now
