@@ -492,4 +492,14 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: 10 mins now
+### Duration of episode: Finished after around 30 mins thankfully
+
+
+## 2358
+### Pain score: 5, more umcomfortable pressure but could be worse  
+### Pins and needles score: 7, sharp pains in the forearm, near the elbow crease
+### Numbness score:0 
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: around 20 mins
