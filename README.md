@@ -502,7 +502,7 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: around 20 mins
+### Duration of episode: around 20 mins. Did go to sleep so cannot say 100% but this feels correct
 
 ## 6th July 1410
 ### Pain score: 6 , sharp pain in hand and alittle towards the wrist
@@ -511,4 +511,13 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
+
+## 2014
+### Pain score: 7 at the moment. The feeling is that of burning in the knuckles area of my index finger and little finger currently as i write this
+### Pins and needles score: 2 just low pain in the fingers not much
+### Numbness score:0 
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:
 ### Duration of episode: 10 mins or so
