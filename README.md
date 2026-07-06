@@ -520,4 +520,13 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode:
-### Duration of episode: 10 mins or so
+### Duration of episode: 20 mins roughly
+## 2125
+### Pain score: 6 so still the same but has gone to little finger and thumb too
+### Pins and needles score: 2 still as just uncomfortable
+### Numbness score:0 
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:
+### Duration of episode: Just started
