@@ -503,3 +503,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode: around 20 mins
+
+## 6th July 1410
+### Pain score: 6 , sharp pain in hand and alittle towards the wrist
+### Pins and needles score: 5 , off an on again pins and needles
+### Numbness score: 0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: 10 mins or so
