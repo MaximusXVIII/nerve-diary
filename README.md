@@ -529,4 +529,14 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode:
-### Duration of episode: Just started
+### Duration of episode: Lasted about 10 mins roughly
+
+## 7th July 1136
+### Pain score: 5, am getting a burning sensation on my forearm. Not all over, more centred towards the wrist
+### Pins and needles score: 7, pins and needles across the hand, quite sharp today
+### Numbness score:1 maybe, feel some difference
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:20 mins of so
+
