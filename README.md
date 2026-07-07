@@ -547,5 +547,13 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: since lunch, so 12ish
+### Duration of episode: since lunch, so 12ish. last till like 1340 in the end
 
+## 2147
+### Pain score: 8 got burning sensation in the palm and little finger
+### Pins and needles score: 7 from burning sensation
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: past 10 since laying down
