@@ -540,3 +540,12 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode:20 mins of so
 
+## 1311
+### Pain score: 3, just a vague uncomfortableness but manageable
+### Pins and needles score: 7 still, getting pins in the hand, across the knuckles and on the palm itself which is unusual as i dont believe i had that before
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: since lunch, so 12ish
+
