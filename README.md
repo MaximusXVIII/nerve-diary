@@ -557,3 +557,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode: past 10 since laying down
+
+## 8th July 0827
+### Pain score: 1 at the moment, owing to the pins and needles that are present.
+### Pins and needles score: 5, quite sharp pins and needles whilst at my desk currently. Occuring across the hand/palm area.
+### Numbness score: 1 maybe, can tell the fingers are not as sensitive on the left side, as they are on the right.
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: Lasting around 10 mins so far
