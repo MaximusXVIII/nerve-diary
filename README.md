@@ -566,3 +566,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode: Lasting around 10 mins so far
+
+## 2139
+### Pain score:4 at moment. pressure senstation in the arm
+### Pins and needles score:7 with pins and needles in the hand, in particular the pinky finger
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:since getting into bed 10 mins ago
