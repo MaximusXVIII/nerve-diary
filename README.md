@@ -575,3 +575,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode:since getting into bed 10 mins ago
+
+## 9th July 1449
+### Pain score: 2, Not so much of pain at the moment, just general uncomfrotableness and vague pressure
+### Pins and needles score: 5, keep getting persistent nerve pain throughout the forearm and hand area. Notably getting it on the little finger areas
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: for about an hour so far
