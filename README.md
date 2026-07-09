@@ -583,4 +583,13 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: for about an hour so far
+### Duration of episode: ended up being for 2 hours roughly 
+
+## 2139
+### Pain score:1 for the pins uncomfortableness
+### Pins and needles score: burning pins in thr little finger and hand. m lying down currently and oy gotten worse since this
+### Numbness score:
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:10 mins roughlg
