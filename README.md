@@ -608,4 +608,4 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: Been ongoing for the past 20 mins
+### Duration of episode: Can confirm that it stopped around lunchtime, so lasting around an hour
