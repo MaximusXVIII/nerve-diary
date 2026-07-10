@@ -12,8 +12,24 @@ jobs:
 
       - name: Update timestamp
         run: |
-          DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
-          sed -i "s|<!--LAST_UPDATED-->.*|<!--LAST_UPDATED-->Last updated: $DATE|" README.md
+          DAY=$(date -u +"%-d")
+          MONTH=$(date -u +"%B")
+          TIME=$(date -u +"%H:%M:%S")
+
+          # Work out ordinal suffix (st, nd, rd, th)
+          if [[ "$DAY" == "11" || "$DAY" == "12" || "$DAY" == "13" ]]; then
+            SUFFIX="th"
+          else
+            case "${DAY: -1}" in
+              1) SUFFIX="st" ;;
+              2) SUFFIX="nd" ;;
+              3) SUFFIX="rd" ;;
+              *) SUFFIX="th" ;;
+            esac
+          fi
+
+          DATE_STR="${DAY}${SUFFIX} ${MONTH} ${TIME} UTC"
+          sed -i "s|<!--LAST_UPDATED-->.*|<!--LAST_UPDATED-->Last updated: $DATE_STR|" README.md
 
       - name: Commit changes
         run: |
