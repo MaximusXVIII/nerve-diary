@@ -593,3 +593,12 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode:10 mins roughlg
+
+## 10th July 1116
+### Pain score: 2, currently just vague pressure/pain. Nothing specific
+### Pins and needles score: 7, am getting alot of pain in the left hand area. Particularly across the knuckles
+### Numbness score: 3, can feel a difference in touch across the left hand vs right hand, particularly of the end of the fingers
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: Been ongoing for the past 20 mins
