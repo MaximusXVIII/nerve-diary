@@ -1,5 +1,9 @@
-# Nerve diary
-
+![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary)
+<br>
+<br>
+![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary?display_timestamp=author)
+<br>
+<br>
 **Purpose:** This diary is meant to show—via commit history—that the entries are being recorded periodically, not generated. I intend to list every instance (where possible) that I experience some degree of nerve pain or sensation that doesn’t match what I’d normally expect (for example, moving my hand normally but still getting pain).  
 
 I will **not** include instances where I slept without a reliable way to track accurately. I also won’t include instances where I haven’t moved for a while and then get pins and needles (or similar) as a direct result.
