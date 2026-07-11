@@ -1,5 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary)
-<br>
 <br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary?display_timestamp=author)
 <br>
@@ -7,6 +5,9 @@
 <!--LAST_UPDATED-->Last updated: 10th July 13:03:07 UTC
 <br>
 <br>
+
+[⬇️ Jump to bottom](#bottom)
+
 **Purpose:** This diary is meant to show—via commit history—that the entries are being recorded periodically, not generated. I intend to list every instance (where possible) that I experience some degree of nerve pain or sensation that doesn’t match what I’d normally expect (for example, moving my hand normally but still getting pain).  
 
 I will **not** include instances where I slept without a reliable way to track accurately. I also won’t include instances where I haven’t moved for a while and then get pins and needles (or similar) as a direct result.
@@ -609,3 +610,15 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode: Can confirm that it stopped around lunchtime, so lasting around an hour
+
+
+## 11th July 1604
+### Pain score: 2, not so much of a painful experience, but uncomfortable due to the pins and needles
+### Pins and needles score: 7 currently, I have pins pins and needles, mostly in the little finger, going to just above the forearm/elbow crease. Am currently just playing games at my desk, and am experiencing the discomfort
+### Numbness score: 1 roughly, not too bad currently. Can sense a little difference but not too bad
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: around 20 mins
+
+<a id="bottom"></a>
