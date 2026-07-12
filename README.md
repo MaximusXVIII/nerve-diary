@@ -621,4 +621,13 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode: around 20 mins
 
+## 12th july 2059
+### Pain score: 5 at the wrist around abouts. Like a burning sensation.
+### Pins and needles score:1 roughly in the forearm but very minor compared to usual
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:10 mins?
+
 <a id="bottom"></a>
