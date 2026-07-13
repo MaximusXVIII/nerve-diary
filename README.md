@@ -28,6 +28,7 @@ The biggest aggravator appears to be manual labor and household chores (for exam
 ##
 ### Pain score:
 ### Pins and needles score:
+### Activity? :
 ### Numbness score:
 ### Activities affected: N/A
 ### Sleep affected: N/A
@@ -629,5 +630,16 @@ Pins and needles score: **5** currently.
 ### Sleep affected: N/A
 ### Medication taken: N/A
 ### Duration of episode:10 mins?
+
+## 13th july 1342
+### Pain score: 7, am getting an intermittent burning sensation on the forearm, and a little bit on the wrist too.
+### Pins and needles score: 0, not so much on the pins and needles, but more on the burning sensation. 
+### Activity? : Just at work, sitting at my desk
+### Numbness score:1 mayber
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: past 10 or so minutes
+
 
 <a id="bottom"></a>
