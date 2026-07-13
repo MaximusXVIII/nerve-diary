@@ -651,5 +651,15 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode:since i started walking
 
+## 2142
+### Pain score:8 again, my hand feels almost fiery? Not so much pins and needles
+### Pins and needles score: 1 again, not much to comment on other than it is present but not much
+### Activity? :at desk before sleeping
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:past 10 mins before sleeping
+
 
 <a id="bottom"></a>
