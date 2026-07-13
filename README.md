@@ -641,5 +641,15 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode: past 10 or so minutes
 
+## 1613
+### Pain score:8 on the left side of the hand. really painful and no immediate reason
+### Pins and needles score:1, minor in comparison but present
+### Activity? :walking home
+### Numbness score:
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:since i started walking
+
 
 <a id="bottom"></a>
