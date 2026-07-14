@@ -661,5 +661,14 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode:past 10 mins before sleeping
 
+## 14th july 0758
+### Pain score:1,  just for pressure
+### Pins and needles score: 5, getting pins and needles in my hand whilst walking intermittently
+### Activity? :walking 
+### Numbness score:
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:since walking so 20 mins
 
 <a id="bottom"></a>
