@@ -671,4 +671,14 @@ Pins and needles score: **5** currently.
 ### Medication taken: N/A
 ### Duration of episode:since walking so 20 mins
 
+## 15th july 1705
+### Pain score: 2, slight burning in the fingers. not much else to cover.
+### Pins and needles score:0
+### Activity? :just sitting down, not at a desk
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode:5 mins, seems to have stopped
+
 <a id="bottom"></a>
