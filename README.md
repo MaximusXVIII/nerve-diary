@@ -679,6 +679,16 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode:5 mins, seems to have stopped
+### Duration of episode: Was indeed 5 mins
+
+## 2208
+### Pain score:0 on pain, more about the pins and needles
+### Pins and needles score: 3 on pins and needles, largely in the hand, but also some in the elbow crease type area too
+### Activity? : Am just at my desk
+### Numbness score:0 
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: been for past few mins, unsure of duration in the end as am going to sleep
 
 <a id="bottom"></a>
