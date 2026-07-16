@@ -698,6 +698,21 @@ Pins and needles score: **5** currently.
 ### Activities affected: N/A
 ### Sleep affected: N/A
 ### Medication taken: N/A
-### Duration of episode: been for past few mins, unsure of duration in the end as am going to sleep
+### Duration of episode: Ended up being 5 mins roughly
+
+## 16th July 1532
+### Pain score: 2, slight pressure and discomfort currently. Nothing major, just a vague pressure
+### Pins and needles score: 3, again, this is very slight, nowhere near as bad as normal, but it is still present
+### Activity? : Sitting at my desk
+### Numbness score:0
+### Activities affected: N/A
+### Sleep affected: N/A
+### Medication taken: N/A
+### Duration of episode: past 5 mins
+
+
+
+
+
 
 <a id="bottom"></a>
