@@ -10,9 +10,9 @@
 <br><br>
 Provided is a summary of the pain so far, from the 9th June to 15th July. This is for simplicity to avoid reading lots of text. Will look to update this every other week
 
-```
+
 This diary is a contemporaneous record of unexplained nerve-related symptoms and shoulder pain, maintained through GitHub commit history to demonstrate that entries were recorded over time rather than created retrospectively. The log focuses on episodes of pain, pins and needles, numbness, burning sensations, pressure, and altered sensation that occur without an obvious cause, while excluding expected symptoms such as positional pins and needles after prolonged inactivity or periods where symptoms during sleep could not be reliably assessed. Across the period from June to mid-July 2025, symptoms were predominantly reported in the left hand, fingers, forearm, and shoulder, with recurring pins and needles, intermittent numbness, burning pain, reduced sensation compared with the right side, and episodes triggered or worsened by activities such as driving, walking, desk work, lying down, and manual tasks. Pain and symptom severity fluctuated from mild discomfort to severe episodes rated as high as 8-9 out of 10, with some events lasting only minutes and others persisting for hours. The author has made efforts to minimise external influences by carrying bags on the opposite shoulder and using pain management, while also noting that manual labour and household chores are significant aggravating factors. Overall, the diary documents persistent, recurring neurological and shoulder symptoms that appear disproportionate to activity levels and often occur without a clear mechanical trigger.
-```
+
 
 
 [⬇️ Jump to bottom](#bottom)
