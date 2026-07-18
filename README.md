@@ -494,6 +494,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** Since I got into work so about an hour roughly
 
+## 18th july 1055
+- **Pain score:** 3 on the pinky, just vague pressure
+- **Pins and needles score:** 3, on pinky, presenting with pins and needles pain
+- **Activity:** on the train
+- **Numbness score:** 0, not bad
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** past hour roughly whilst on the train
+
 ---
 
 <a id="bottom"></a>
