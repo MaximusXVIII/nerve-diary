@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary?display_timestamp=author)
 <br>
 <br>
-<!--LAST_UPDATED-->Last updated: 18th July 09:57:09 UTC
+<!--LAST_UPDATED-->Last updated: 17th July 09:15:29 UTC
 <br>
 <br>
 
@@ -503,6 +503,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** past hour roughly whilst on the train
+
+## 1607
+- **Pain score:** 6, more uncomfortable pressure. feeling like when your body part hasnt got any blood like leaving your arm up too long
+- **Pins and needles score:** 2, minor pins and needles but not too bad
+- **Activity:** sitting on the train
+- **Numbness score:** 3, higher than norm as guessing due to the funny numb feeling
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** about 10 mins
 
 ---
 
