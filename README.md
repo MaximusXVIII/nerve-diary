@@ -514,6 +514,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** about 10 mins
 
+## 19th July 1806
+- **Notes** Pain largelly focused in the shoulders today so more focused on that but pain has come again once i sat done in the nerves
+- **Pain score:** 3, vague pressure sensation in the forearm
+- **Pins and needles score:** 4, pins and needles sensation in in the hand primarily
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** just started really whilst at desk
+
 ---
 
 <a id="bottom"></a>
