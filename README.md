@@ -533,7 +533,7 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** been for the past 10 mins whilst at my desk
+- **Duration of episode:** lasted basically for the entirety of the game. Ended at 2310 so from 2100 to 2300?
 - **Notes** Showing this image below to highlight the rough angle my arm is sitting at
 - <img width="746" height="523" alt="image" src="https://github.com/user-attachments/assets/cbc84098-3b2f-47d5-9106-66f69bee227f" />
 
