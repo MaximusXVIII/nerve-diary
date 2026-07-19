@@ -525,6 +525,19 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** just started really whilst at desk
 
+## 2106
+- **Pain score:** 0, not really having pain, but am getting weird sensations
+- **Pins and needles score:** 7, very weird sensations in my arms, largely just being pins and needles. BUt also feels as if i can feel a draft on my arm at certain points when there isnt one where i am currently. Have noted that when i am sitting at my desk, and my elbow is bent and on the rest, the pins and needles is more prominent. This is quite annoying considering this is the position i have been advised of taking for posture
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** been for the past 10 mins whilst at my desk
+- **Notes** Showing this image below to highlight the rough angle my arm is sitting at
+- <img width="746" height="523" alt="image" src="https://github.com/user-attachments/assets/cbc84098-3b2f-47d5-9106-66f69bee227f" />
+
+
 ---
 
 <a id="bottom"></a>
