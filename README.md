@@ -537,6 +537,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Notes** Showing this image below to highlight the rough angle my arm is sitting at
 - <img width="746" height="523" alt="image" src="https://github.com/user-attachments/assets/cbc84098-3b2f-47d5-9106-66f69bee227f" />
 
+## 20th July 1522
+- **Pain score:** 2, just pressure, not so much pain in the arm/hand
+- **Pins and needles score:** 4, shooting pins and needles in the wrist/hand area, no clear immediate trigger other than being at my desk
+- **Activity:** Working at my desk at work
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** Roughly 10 mins
 
 ---
 
