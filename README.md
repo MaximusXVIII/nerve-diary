@@ -545,7 +545,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** Roughly 10 mins
+- **Duration of episode:** ended being 15 mins
+
+## 2217
+- **Pain score:** 0, just uncomfortable from pins and needles
+- **Pins and needles score:** 5, predominantly in the hand all over
+- **Activity:** laying on the sofa
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** about 5 mins
 
 ---
 
