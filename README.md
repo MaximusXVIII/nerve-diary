@@ -557,6 +557,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** about 5 mins
 
+## 21st July 2212
+- **Pain score:** 0 for pain which is a change
+- **Pins and needles score:** 4 on pins and needles. am on the sofa and despite both arms being at the same angle, only the left hand is affected
+- **Activity:** sitting on the sofa
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins?
+
 ---
 
 <a id="bottom"></a>
