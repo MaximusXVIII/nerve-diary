@@ -576,6 +576,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
+
+## 2032
+- **Pain score:** 3 little finger pain again. Also to note, the shoulder pain has been quite bad today as well whilst working
+- **Pins and needles score:** 1,  just in the little finger
+- **Activity:** just at my desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** shoulder pain has largely been all day, but the little finger pain has only been for the past 10 mins
 ---
 
 <a id="bottom"></a>
