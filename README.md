@@ -567,6 +567,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins?
 
+## 22nd July 1459
+- **Pain score:** 5, getting alot of pressure in my forearm and my trapezius too. 
+- **Pins and needles score:** 2, minor pins and needles in the pinky again
+- **Activity:** Working at my desk
+- **Numbness score:** 3, highest been in a while
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
 ---
 
 <a id="bottom"></a>
