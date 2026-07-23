@@ -586,6 +586,18 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** shoulder pain has largely been all day, but the little finger pain has only been for the past 10 mins
+
+## 23rd july 1634
+- **Pain score:** 4 in pain, located on the side on the hand, closest to the little finger.  feeling is like a non persisrent ache from top of pinky to top of wrist on that side
+- **Pins and needles score:** 1, mild and experienced on the same area as the ache
+- **Activity:** walking home 
+- **Numbness score:** 1, normal and not too bad
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** sincr walking so 15 mins
+
+
 ---
 
 <a id="bottom"></a>
