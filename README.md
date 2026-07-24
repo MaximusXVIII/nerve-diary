@@ -597,6 +597,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** sincr walking so 15 mins
 
+## 24th July 1040
+- **Pain score:** 6, really sharp pains in the little finger and next to it too. No reason for it that I can think of
+- **Pins and needles score:** 0, not a pins and needles issues, just a pain one
+- **Activity:** working at my desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** short and sharp, maybe a minute total
+
 
 ---
 
