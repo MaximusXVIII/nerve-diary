@@ -607,6 +607,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** short and sharp, maybe a minute total
 
+## 25th july 1750
+- **Pain score:** 4, getting a burning sensation in the wrist / palm area. havent been doing anything in particularly
+- **Pins and needles score:** 2, background pins and needles, nothing major
+- **Activity:** at my desk
+- **Numbness score:** 2 when compared to other hand
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 ish mins
+- **Notes:** I have still noted that whenever i am laying down in bed, my left arm experiences pins and needles quite often. For example, i will leave both hands at my sides. and near enough immediately the left arm and hand will be full of pins and needles. Whereas on the right hand, which i am kind of treating as a baseline, will take a good minute or so before i reach anything close to this level of discomfort.
 
 ---
 
