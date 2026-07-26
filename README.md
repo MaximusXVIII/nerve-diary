@@ -618,6 +618,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Duration of episode:** 5 ish mins
 - **Notes:** I have still noted that whenever i am laying down in bed, my left arm experiences pins and needles quite often. For example, i will leave both hands at my sides. and near enough immediately the left arm and hand will be full of pins and needles. Whereas on the right hand, which i am kind of treating as a baseline, will take a good minute or so before i reach anything close to this level of discomfort.
 
+## 26th july
+- **Pain score:** 8, currently in pain but this is more for the shoulder based pain. In regards to arm based nerve pain it is probably a 4 roughly
+- **Pins and needles score:** 5 getting pain quite sharply in the hand, specifically the backhand sort of area. Random points, but primarily in the knuckles area
+- **Activity:** currently just watching tv at my desk  
+- **Numbness score:** 0 
+- **Activities affected:** N/A 
+- **Sleep affected:** N/A
+- **Medication taken:** Note it has been around 5 days since medication for the nerve pain has finished
+- **Duration of episode:** 20 minutes so far sadly
+
 ---
 
 <a id="bottom"></a>
