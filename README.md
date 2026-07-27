@@ -636,7 +636,7 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** still ongoing, 40 mins ish?
+- **Duration of episode:** Ended after around an hour, just before going to work
 - **Continuation:** burning in my back hand now too
 
 
