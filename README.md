@@ -628,6 +628,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** Note it has been around 5 days since medication for the nerve pain has finished
 - **Duration of episode:** 20 minutes so far sadly
 
+## 27th july 0644
+- **Pain score:** 5, burning sensation going from the forearm to the knuckle of my thumb
+- **Pins and needles score:** 1, vague pins and needles in the same area as burning
+- **Activity:** at desk
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins?
+
+
 ---
 
 <a id="bottom"></a>
