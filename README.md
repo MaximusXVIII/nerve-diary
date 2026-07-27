@@ -639,6 +639,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Duration of episode:** Ended after around an hour, just before going to work
 - **Continuation:** burning in my back hand now too
 
+## 1434
+- **Pain score:** 7 on pain, but going to focus on pins needles more as that was the immediate feeling.
+- **Pins and needles score:** 9 on the score, intense pins and needles feeling like being hit on the funny bone going on the left side of my forearm and hand
+- **Activity:** working
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** instant, 3 different times, lasting a second or less
 
 ---
 
