@@ -649,6 +649,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** instant, 3 different times, lasting a second or less
 
+## 28th july 1612
+- **Pain score:** 2, pain relates more to pkns and needles
+- **Pins and needles score:** 4, pins and needles across all fingers. 
+- **Activity:** walking home with bag on other shoulder
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins since walking
+
 ---
 
 <a id="bottom"></a>
