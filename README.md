@@ -657,8 +657,30 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** 5 mins since walking
+- **Duration of episode:** lasted for walking + 5 mins so like 25 mins
+
+## 29th July 1531
+- **Pain score:** 0 on the pain score that is quite nice and a change of pace
+- **Pins and needles score:** 3, low level pins and needles in the forearm
+- **Activity:** working at my desk
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 
 ---
+
+## [Date] [Time]
+- **Pain score:**
+- **Pins and needles score:**
+- **Activity:**
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:**
+
 
 <a id="bottom"></a>
