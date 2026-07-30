@@ -678,6 +678,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
+
+## 1612
+- **Pain score:** 8, not usually mentioning ahoulder pain but today is quite bad on shoulder pain. 
+- **Pins and needles score:** 2, pins in the little finger and forearm
+- **Activity:** walking home
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** since walking so 5 mins
+
 ---
 
 ## [Date] [Time]
