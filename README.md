@@ -699,6 +699,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** all day so since 0700 roughly so about 14 hours
 
+## 31st July 0700?
+- **Pain score:** 9 ,  on pain for both shoulder and pressure in the arm as well. This was around the time i woke up.
+- **Pins and needles score:** 8 for the pins and needles. Unsure of the cause, but the feeling was intense, across the whole arm but particularly the hand, and kinda lessened the further up the arm it went
+- **Activity:** woken up after sleeping
+- **Numbness score:** 3, did a check on the fingers as i usually did and noted a particularly numb effect
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** about an hour
+
 ---
 
 ## [Date] [Time]
