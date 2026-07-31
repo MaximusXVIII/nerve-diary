@@ -709,6 +709,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** about an hour
 
+## 2229
+- **Pain score:** 5 for vague pressure when in cinema seat. was getting hot and cold sensations too? dimething different i think
+- **Pins and needles score:** 8 as random pins and needles focusing in the hand. felt almost fiery
+- **Activity:** cinema watching a film
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour long rougly as during film so couldnt get phone out 
+
 ---
 
 ## [Date] [Time]
