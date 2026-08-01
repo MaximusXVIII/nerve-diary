@@ -728,6 +728,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins?
+
+
+## 2nd August 0005
+- **Pain score:** 2 for pain, just more pressure. Not too bad
+- **Pins and needles score:** 6, getting quite sharp pins and needles in the fingers, and forearm near the elbow
+- **Activity:** at desk
+- **Numbness score:** 1 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 2 mins roughly
 ---
 
 ## [Date] [Time]
