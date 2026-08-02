@@ -739,6 +739,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 2 mins roughly
+
+## 0923
+- **Pain score:** 4 from the burning sensation that is occuring in the forearm but primarily hand at the moment.
+- **Pins and needles score:** 8 as the pins and needles appear quite strong. Prominent in the hand below the knuckles and some pain randomly in the forearm
+- **Activity:** at my desk
+- **Numbness score:** 2 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** past 10 mins
+
 ---
 
 ## [Date] [Time]
