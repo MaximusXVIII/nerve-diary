@@ -750,6 +750,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** past 10 mins
 
+## 2021
+- **Pain score:** 5 getting a burning sensation in my index finger? more to the side on the initial third from the knuckle. proximal?
+- **Pins and needles score:** 2 for burning pins and needles
+- **Activity:** at my desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
