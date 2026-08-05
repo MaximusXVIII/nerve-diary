@@ -790,6 +790,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins roughly
+
+## 2049
+- **Pain score:** 6 pain primarily in the trapezius area. Causing me some real discomfort
+- **Pins and needles score:** 0 
+- **Activity:** moving boxes and packing things
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour whilst moving things. Have taken a break
 ---
 
 ## [Date] [Time]
