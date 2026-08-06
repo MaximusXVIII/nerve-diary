@@ -804,12 +804,22 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 ## 6th august 1847
 - **Pain score:** 6 for most of day in shoulder, through typical work meetings but unable to enter bintindiary due to not having phone most the day
 - **Pins and needles score:** 2 with minor pain in palm and kncuckles throughout day
-- **Activity:** meetings at work
+- **Activity:** meetings at work + and travelling back
 - **Numbness score:** 2
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** since 1030 roughly 
+- **Duration of episode:** since 1030 roughly ---- see below point
+
+## 2100
+- **Pain score:** 2 , pain in shoulder basically gone now, still presentish , but am considering it basically gone or will be by time i sleep
+- **Pins and needles score:** 2 still, getting minor pins needles in the arm and hand area still
+- **Activity:** at desk
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** since 1030, still continuing but at much lesser intensity
 
 
 ---
