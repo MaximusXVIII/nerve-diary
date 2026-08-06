@@ -800,6 +800,18 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** hour whilst moving things. Have taken a break
+
+## 6th august 1847
+- **Pain score:** 6 for most of day in shoulder, through typical work meetings but unable to enter bintindiary due to not having phone most the day
+- **Pins and needles score:** 2 with minor pain in palm and kncuckles throughout day
+- **Activity:** meetings at work
+- **Numbness score:** 2
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** since 1030 roughly 
+
+
 ---
 
 ## [Date] [Time]
