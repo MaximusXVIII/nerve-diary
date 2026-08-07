@@ -836,6 +836,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** for like 5 mins
+
+## 1821
+- **Pain score:** 3 for the pain, largely a continuation from earlier on
+- **Pins and needles score:** 2 with some intermittent pain in the wrist area. like burning
+- **Activity:** waiting fot a train
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** as before, around 5 mins
 ---
 
 ## [Date] [Time]
