@@ -826,6 +826,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 
 ## 1103
 - **sitrep** pain has since stopped, so now pain is 0 thank god
+
+## 1308
+- **Pain score:** 7 on the shoulder currently. Needed to lift some boxes out that werent particularly heavy but enough to cause issues
+- **Pins and needles score:** 0 thankfully
+- **Activity:** lifting boxes
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** for like 5 mins
 ---
 
 ## [Date] [Time]
