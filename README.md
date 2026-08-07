@@ -821,7 +821,8 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** since 1030, still continuing but at much lesser intensity
 
-
+## 7th august 0536
+- **sitrep** pain has continued all night. sleeping has been impacted as i keep waking up.  am getting pins and needles further up the arm and on the shoulder too which is new. will update when it ends
 ---
 
 ## [Date] [Time]
