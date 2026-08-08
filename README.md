@@ -857,6 +857,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 1313
+- **Pain score:** 6 on pain at the moment as am lifting things 
+- **Pins and needles score:** 2, minor burn sensation in the hand 
+- **Activity:** lifting things up
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** painkillers 
+- **Duration of episode:** 10 mins roughly
+
 ---
 
 ## [Date] [Time]
