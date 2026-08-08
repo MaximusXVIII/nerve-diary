@@ -846,6 +846,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** as before, around 5 mins
+
+## 8th august 1008
+- **Pain score:** 3 at the moment as am having to carry things for moving and such
+- **Pins and needles score:** 0 at the monet thankfully
+- **Activity:** lifting things
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
