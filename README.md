@@ -867,6 +867,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** painkillers 
 - **Duration of episode:** 10 mins roughly
 
+## 2124
+- **Pain score:** 6 pain in shoulder, makes sense after lifting things for the day but did try take breaks inbetween
+- **Pins and needles score:** 2 for sudden nerve pains and such
+- **Activity:** lifting
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
+
 ---
 
 ## [Date] [Time]
