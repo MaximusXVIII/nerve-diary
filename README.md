@@ -897,6 +897,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** started and stopped for 5 mins
 
+## 2152
+- **Pain score:** 5 for shoulder pain, present, but dull so not the worse
+- **Pins and needles score:** 6, getting pins and needles in the hands, particularly the knuckles of the hands
+- **Activity:** at desk before going to bed
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** past couple of minutes the pins has been present, but shoulder has largely been all day
+
 ---
 
 ## [Date] [Time]
