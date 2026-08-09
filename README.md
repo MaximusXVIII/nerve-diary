@@ -877,6 +877,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 9th august 1100
+- **Pain score:** 7 shoulder pain
+- **Pins and needles score:** 3 for pins and needles in the hand currently, towards the smaller fingers
+- **Activity:** travelling in the car
+- **Numbness score:** 2 roughly
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins roughly
 
 ---
 
