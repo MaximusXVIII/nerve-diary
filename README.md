@@ -907,6 +907,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** past couple of minutes the pins has been present, but shoulder has largely been all day
 
+## 10th august 0803
+- **Pain score:** 7 for shoulder pain this morning. not wearing bag on that shoulder to avoid further pain
+- **Pins and needles score:** 4 as getting pain/ pins sensation in side of palm towards little finger
+- **Activity:** walking to work
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** since walking for shoulder so 20, for palm around 5
+
 ---
 
 ## [Date] [Time]
