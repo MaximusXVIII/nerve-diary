@@ -917,6 +917,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** since walking for shoulder so 20, for palm around 5
 
+## 2131
+- **Pain score:** 5 on shoulder pain
+- **Pins and needles score:** 3 on pains pain the palm area
+- **Activity:** getting things ready before bee
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins
+
 ---
 
 ## [Date] [Time]
