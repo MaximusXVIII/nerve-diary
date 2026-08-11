@@ -927,6 +927,19 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
+
+## 11th august 0648
+- **Pain score:** 3 for the pain in shoulder, and 5 for pain in the hand on the little finger and that side of the hand. Will add image to show what i mean
+- **Pins and needles score:** 3 for pins and needles primarily in the hand, a little in the forearm too
+- **Activity:** at my desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** around 5 mins
+
+  <img width="1136" height="1439" alt="image" src="https://github.com/user-attachments/assets/f999968d-41ab-4d07-a62c-afc3dd6639fe" />
+
 ---
 
 ## [Date] [Time]
