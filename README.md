@@ -950,8 +950,18 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** about an hour?
+- **Duration of episode:** about an 
 
+
+## 2249
+- **Pain score:**9 for shoulder as lifting things for moving, 4 for gurning sensation in hnds and foresrms
+- **Pins and needles score:** 4 for pins and burning sensations in hands
+- **Activity:** lifting and at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 30 mins maybe
 ---
 
 ## [Date] [Time]
