@@ -982,6 +982,8 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 
 - ** 10:14 burning in arm and pins in forearm
 
+- ** 1700 while taking a nap my arm was having pains which was uncomfortable
+
 ---
 
 ## [Date] [Time]
