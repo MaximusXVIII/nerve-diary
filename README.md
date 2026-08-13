@@ -972,6 +972,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** all day basically 
+
+## 13th august after report as driving at time
+- **08:37 funny feeling in left arm/hand
+
+- **08:54 burning in foreman pinky and next finger pins and needles
+
+- ** 09:27 tingle sensation under bicep
+
+- ** 10:14 burning in arm and pins in forearm
+
 ---
 
 ## [Date] [Time]
