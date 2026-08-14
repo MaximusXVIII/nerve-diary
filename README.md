@@ -986,7 +986,8 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 
 ## 14th august report as in car
 - ** 1044 tingling in smallest and next finger, also feel pain in shoulder still 
-
+- ** 1234 more tingling in arm
+- ** 1802 some shoulder pain, only on the left side as am moving stuff
 ---
 
 ## [Date] [Time]
