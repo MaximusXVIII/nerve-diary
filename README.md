@@ -984,6 +984,9 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 
 - ** 1700 while taking a nap my arm was having pains which was uncomfortable
 
+## 14th august report as in car
+- ** 1044 tingling in smallest and next finger, also feel pain in shoulder still 
+
 ---
 
 ## [Date] [Time]
