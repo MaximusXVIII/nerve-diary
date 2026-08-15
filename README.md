@@ -988,6 +988,10 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - ** 1044 tingling in smallest and next finger, also feel pain in shoulder still 
 - ** 1234 more tingling in arm
 - ** 1802 some shoulder pain, only on the left side as am moving stuff
+
+## 15th august moving in so lack of reporting
+- ** pain has been noticeable jn the shoulder area. particular when needing to carry objects away. at worst a 10 and lowest a 3
+- ** tingling or pins needles has been random and sporadic througjout the day. as im writing this the smallest finger and next along is tingling with no obvious reason
 ---
 
 ## [Date] [Time]
