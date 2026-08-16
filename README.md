@@ -992,6 +992,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 ## 15th august moving in so lack of reporting
 - ** pain has been noticeable jn the shoulder area. particular when needing to carry objects away. at worst a 10 and lowest a 3
 - ** tingling or pins needles has been random and sporadic througjout the day. as im writing this the smallest finger and next along is tingling with no obvious reason
+
+## 16th august 1457
+- **Pain score:** 5 in shoulder for the moment, 2 on nerve pain
+- **Pins and needles score:** 3 for pins and needles. Just a presence but not severe
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour maybe
 ---
 
 ## [Date] [Time]
