@@ -6,7 +6,24 @@
 <br>
 <br>
 
+---
+### MRI Results
 
+Noted mild disc desiccation at C3-4.
+<img width="1600" height="1098" alt="image" src="https://github.com/user-attachments/assets/c9e16496-cf37-4198-b6fc-79bf3b7a7acb" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/e9565118-7603-48f7-ae97-37ddcff5da05" />
+
+There is also a mild broad-based disc bulge
+<img width="1600" height="1042" alt="image" src="https://github.com/user-attachments/assets/d2a83712-6f9b-4701-a604-eeaabc9f6a63" />
+which indents the ventral thecal sac without significant central canal stenosis or high-grade foraminal stenosis, and no convincing nerve root compression
+
+Minor disc bulges at C5-6
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/39f078af-ccc6-4bc5-93a6-a6d67b6a8953" />
+Minor disc bulges at T1-2
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/b274cf00-f4c3-44e7-a72d-522787dc3c08" />
+without nerve root compression, and the remaining cervical disc levels show no significant disc buldge or focal disc protrusion
+
+It was the impression of the radiologist that the injuries sustained matched that which is expected of a car accident / whiplash injury
 ---
 
 ## AI Summary
