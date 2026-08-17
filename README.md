@@ -1002,6 +1002,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** hour maybe
+
+## 17th august 1918
+- **Pain score:** 3 in pain in the forearm, about 8 in the shoulder
+- **Pins and needles score:** 5 in pins and needles on the forearm and the hand
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour?
 ---
 
 ## [Date] [Time]
