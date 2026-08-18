@@ -1029,6 +1029,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** hour?
+
+## 18th august 2114
+- **Pain score:** 10 for shoulder, this is probably as bad as i have ever had it. thankfully 0 for arm pain
+- **Pins and needles score:** 5 whnilst at my desk, and 7 now whilst laying in bed
+- **Activity:** laying in bed
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 20 mins for pins, and around 3 hours for shoulder
 ---
 
 ## [Date] [Time]
