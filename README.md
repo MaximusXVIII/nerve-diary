@@ -1039,6 +1039,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 20 mins for pins, and around 3 hours for shoulder
+
+## 19th august 2120
+- **Pain score:** 8 for shoulder, particularly painful whilst lifting cardboard :(
+- **Pins and needles score:** for better part of the day, nothing was felt, but currently, getting pins and needles of around 5, particularly at the wrist to the pinky finger tip
+- **Activity:** sitting at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 15 mins
 ---
 
 ## [Date] [Time]
