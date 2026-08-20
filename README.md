@@ -1049,6 +1049,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 15 mins
+
+## 20th august 1926
+- **Pain score:** 8 on shoulder pain. Been quite good so far today but whilst sitting down it is causing an issue. 2 for uncomfortable sensations in the pinky and left hand side of the hand
+- **Pins and needles score:** 3 for pins and needles roughly
+- **Activity:** gaming at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** back on amtryptiline
+- **Duration of episode:** 5 mins
 ---
 
 ## [Date] [Time]
