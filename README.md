@@ -1059,6 +1059,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** back on amtryptiline
 - **Duration of episode:** 5 mins
+
+## 2200
+- **Pain score:** 6 in shoulder, 4 in the index and thumb on the left habd
+- **Pins and needles score:** 2, in fingers mentioned above. main point is the pain
+- **Activity:** laying in bed
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mind
+
 ---
 
 ## [Date] [Time]
