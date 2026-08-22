@@ -1071,10 +1071,20 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Duration of episode:** 5 min
 
 
-## 21st august
+## 21st august TO NOTE I WAS DRIVING 
 - ** 1927 shoulder pain of 3
 - ** 1953 pain in palm of hand, roughly a 5
 - ** 2100 felt like something slipped in the shoulder, around 5 in pain
+
+## 22nd august 1818
+- **Pain score:** 3 in shoulder ,1 for arm
+- **Pins and needles score:** 2 for little finger 
+- **Activity:** sitting down
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins
 ---
 
 ## [Date] [Time]
