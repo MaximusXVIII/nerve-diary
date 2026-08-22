@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary?display_timestamp=author)
 <br>
 <br>
-<!--LAST_UPDATED-->Last updated: 20th August 21:02:02 UTC
+<!--LAST_UPDATED-->Last updated: 20th August 18:27:45 UTC
 <br>
 <br>
 
@@ -1068,8 +1068,13 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** 5 mind
+- **Duration of episode:** 5 min
 
+
+## 21st august
+- ** 1927 shoulder pain of 3
+- ** 1953 pain in palm of hand, roughly a 5
+- ** 2100 felt like something slipped in the shoulder, around 5 in pain
 ---
 
 ## [Date] [Time]
