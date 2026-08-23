@@ -1085,6 +1085,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
+
+## 23rd august
+- **Pain score:** 2 in shoulder some type of twinge sensation, 0 for arm type pain
+- **Pins and needles score:** 2 in the forearm and hand
+- **Activity:** at desk but was walking
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 0
 ---
 
 ## [Date] [Time]
