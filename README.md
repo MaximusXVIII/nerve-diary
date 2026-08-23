@@ -1086,7 +1086,7 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
-## 23rd august
+## 23rd august 1840? putting time after the fact as forgot
 - **Pain score:** 2 in shoulder some type of twinge sensation, 0 for arm type pain
 - **Pins and needles score:** 2 in the forearm and hand
 - **Activity:** at desk but was walking
@@ -1095,6 +1095,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 0
+
+## 1943
+- **Pain score:**  8 in the forearm which was short lived but very sharp, general pain in shoulder but fine otherwise
+- **Pins and needles score:** 0
+- **Activity:** at desk
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 0 as pretty instant in starting and ending
+
 ---
 
 ## [Date] [Time]
