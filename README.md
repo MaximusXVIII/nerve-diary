@@ -1106,6 +1106,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 0 as pretty instant in starting and ending
 
+
+## 2208
+- **Pain score:** 7 on shoulder, 2 on uncomfortable on the hand 
+- **Pins and needles score:** 4 currently in the pinky 
+- **Activity:** in bed
+- **Numbness score:** 2
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins
 ---
 
 ## [Date] [Time]
