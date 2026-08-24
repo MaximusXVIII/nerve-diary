@@ -3,178 +3,122 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Nerve Diary — Scans</title>
+<title>Nerve Diary</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
 
-<script src="https://cdn.jsdelivr.net/npm/dwv@0.34.1/dist/dwv.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 <link rel="stylesheet" href="assets/style.css" />
 
 <style>
-  body { font-family: var(--sans); }
-
   main {
-    display: grid;
-    grid-template-columns: 1fr 280px;
-    gap: 1px;
-    background: var(--line);
-    height: calc(100vh - 61px);
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2.5rem 1.5rem 6rem;
   }
 
-  #layerGroup0 {
-    background: #0b0d0c;
-    position: relative;
-    overflow: hidden;
+  .diary-content {
+    border-left: 2px solid var(--line);
+    margin-left: 0.4rem;
+    padding-left: 1.6rem;
   }
 
-  aside {
-    background: var(--paper-alt);
-    padding: 1.2rem;
-    overflow-y: auto;
-    font-size: 0.85rem;
-  }
-
-  aside h2 {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: var(--ink-muted);
-    margin: 1.6rem 0 0.6rem;
-    font-weight: 600;
-  }
-  aside h2:first-child { margin-top: 0; }
-
-  .series-btn {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 0.5rem;
-    width: 100%;
-    padding: 0.55rem 0.7rem;
-    margin-top: 0.35rem;
-    background: transparent;
-    border: 1px solid var(--line);
-    color: var(--ink);
-    border-radius: 6px;
-    cursor: pointer;
+  .diary-content h2 {
     font-family: var(--sans);
-    font-size: 0.85rem;
-    text-align: left;
-  }
-  .series-btn:hover { border-color: var(--accent); }
-  .series-btn.active { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
-  .series-btn .count {
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    color: var(--ink-muted);
-  }
-  .series-btn.active .count { color: var(--accent); }
-
-  .series-row {
-    display: flex;
-    align-items: stretch;
-    gap: 0.3rem;
-    margin-top: 0.35rem;
-  }
-  .series-row .series-btn { margin-top: 0; flex: 1; }
-  .dl-btn {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 34px;
-    flex-shrink: 0;
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    color: var(--ink-muted);
-    text-decoration: none;
-    font-size: 0.9rem;
-    transition: border-color 0.15s ease, color 0.15s ease;
-  }
-  .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
-
-  .dl-all {
-    display: block;
-    text-align: center;
-    padding: 0.5rem 0.7rem;
-    margin-top: 0.6rem;
-    border: 1px solid var(--line);
-    border-radius: 6px;
-    color: var(--ink-muted);
-    text-decoration: none;
-    font-family: var(--mono);
-    font-size: 0.72rem;
-    letter-spacing: 0.04em;
-    transition: border-color 0.15s ease, color 0.15s ease;
-  }
-  .dl-all:hover { border-color: var(--accent); color: var(--accent); }
-
-  .drop-label {
-    display: block;
-    text-align: center;
-    padding: 0.65rem 0.5rem;
-    border: 1px dashed var(--line);
-    border-radius: 8px;
-    color: var(--ink-muted);
-    font-family: var(--mono);
     font-size: 0.75rem;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-    transition: border-color 0.15s ease, color 0.15s ease;
-  }
-  .drop-label:hover { border-color: var(--accent); color: var(--accent); }
-  input[type="file"] { display: none; }
-
-  .row {
-    display: flex;
-    justify-content: space-between;
-    gap: 0.5rem;
-    padding: 0.35rem 0;
-    border-bottom: 1px solid var(--line);
-  }
-  .row span:first-child { color: var(--ink-muted); }
-  .row span:last-child { text-align: right; word-break: break-word; color: var(--ink); }
-
-  .tool-btn {
-    width: 100%;
-    padding: 0.55rem;
-    margin-top: 0.4rem;
-    background: transparent;
-    border: 1px solid var(--line);
-    color: var(--ink);
-    border-radius: 6px;
-    cursor: pointer;
-    font-family: var(--sans);
-    font-size: 0.85rem;
-    text-align: left;
-  }
-  .tool-btn.active { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
-  .tool-btn:hover { border-color: var(--accent); }
-
-  .note {
-    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
     color: var(--ink-muted);
-    line-height: 1.5;
-    margin-top: 1.6rem;
-    padding-top: 1rem;
-    border-top: 1px solid var(--line);
+    margin: 3rem 0 1rem;
+  }
+  .diary-content h2:first-child { margin-top: 0; }
+
+  .diary-content h3 {
+    position: relative;
+    font-family: var(--mono);
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--ink);
+    margin: 2.4rem 0 0.8rem;
+    letter-spacing: 0.01em;
+  }
+  .diary-content h3::before {
+    content: "";
+    position: absolute;
+    left: -1.85rem;
+    top: 0.35em;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--accent);
+    box-shadow: 0 0 0 3px var(--paper);
   }
 
-  .placeholder {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    color: #8a9089;
-    text-align: center;
-    padding: 2rem;
-    font-size: 0.9rem;
-    line-height: 1.6;
-    font-family: var(--sans);
+  .diary-content p { margin: 0.7rem 0; }
+  .diary-content ul { margin: 0.7rem 0; padding-left: 1.2rem; }
+  .diary-content li { margin: 0.3rem 0; }
+
+  .diary-content p > strong:first-child,
+  .diary-content li > strong:first-child {
+    font-family: var(--mono);
+    font-size: 0.85rem;
+    color: var(--accent);
+    font-weight: 500;
   }
-  .placeholder strong { color: #e4e8e3; }
+
+  .diary-content blockquote {
+    background: var(--paper-alt);
+    border-left: 3px solid var(--accent);
+    margin: 1.2rem 0;
+    padding: 1rem 1.2rem;
+    font-style: italic;
+    color: var(--ink-muted);
+    border-radius: 0 6px 6px 0;
+  }
+
+  .diary-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    margin: 0.8rem 0;
+    display: block;
+  }
+
+  .diary-content hr {
+    border: none;
+    border-top: 1px solid var(--line);
+    margin: 2.5rem 0;
+  }
+
+  .diary-content a { color: var(--accent); }
+
+  .diary-content code {
+    font-family: var(--mono);
+    background: var(--paper-alt);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 0.1em 0.4em;
+    font-size: 0.85em;
+  }
+  .diary-content pre {
+    background: var(--paper-alt);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 1rem;
+    overflow-x: auto;
+  }
+  .diary-content pre code { border: none; padding: 0; }
+
+  .state-msg {
+    font-family: var(--sans);
+    color: var(--ink-muted);
+    font-size: 0.9rem;
+    padding: 2rem 0;
+  }
 </style>
 </head>
 <body>
@@ -182,165 +126,45 @@
 <header class="site-header">
   <div class="wordmark">Nerve <span>Diary</span></div>
   <nav class="tabs">
-    <a href="index.html" class="tab">Diary</a>
-    <a href="scans.html" class="tab active">Scans</a>
+    <a href="index.html" class="tab active">Diary</a>
+    <a href="scans.html" class="tab">Scans</a>
   </nav>
-  <div class="meta">MRI viewer</div>
+  <div class="meta" id="lastUpdated"></div>
 </header>
 
 <main>
-  <div id="layerGroup0">
-    <div class="placeholder" id="placeholder">
-      Loading the first series…<br/>
-      Or pick a different one, or your own files, from the sidebar.
-    </div>
+  <div id="content" class="diary-content">
+    <p class="state-msg">Loading diary…</p>
   </div>
-
-  <aside>
-    <h2>Series</h2>
-    <div id="seriesList">
-      <div class="row"><span>Loading…</span><span></span></div>
-    </div>
-
-    <h2>Or load your own</h2>
-    <label class="drop-label" for="fileInput">Open DICOM file(s)</label>
-    <input type="file" id="fileInput" multiple accept=".dcm,application/dicom" />
-
-    <h2>Tools</h2>
-    <button class="tool-btn active" data-tool="Scroll">Scroll (slices)</button>
-    <button class="tool-btn" data-tool="WindowLevel">Window / Level</button>
-    <button class="tool-btn" data-tool="ZoomAndPan">Zoom &amp; Pan</button>
-
-    <h2>Metadata</h2>
-    <div id="metaBox">
-      <div class="row"><span>Status</span><span>No file loaded</span></div>
-    </div>
-
-    <p class="note">
-      Files are read entirely in your browser and are never uploaded anywhere.
-      If you commit scans into this repo to auto-load them, make sure any
-      identifying DICOM header fields (name, DOB) are stripped first if the
-      repo is public.
-    </p>
-  </aside>
+  <a href="scans.zip">scans</a>
 </main>
 
 <script>
-  const app = new dwv.App();
-  app.init({
-    dataViewConfigs: { '*': [{ divId: 'layerGroup0' }] }
-  });
-
-  const placeholder = document.getElementById('placeholder');
-  const metaBox = document.getElementById('metaBox');
-  const seriesList = document.getElementById('seriesList');
-  let currentSeriesId = null;
-
-  function loadSeries(series, btn) {
-    document.querySelectorAll('.series-btn').forEach((b) => b.classList.remove('active'));
-    if (btn) btn.classList.add('active');
-    currentSeriesId = series.id;
-    metaBox.innerHTML = '<div class="row"><span>Status</span><span>Loading ' + series.label + '…</span></div>';
-
-    app.reset();
-    app.loadURLs(series.files);
-  }
-
-  fetch('scans/manifest.json')
+  fetch('README.md')
     .then((res) => {
       if (!res.ok) throw new Error('HTTP ' + res.status);
-      return res.json();
+      return res.text();
     })
-    .then((manifest) => {
-      if (!manifest.series || !manifest.series.length) {
-        seriesList.innerHTML = '<div class="row"><span>No series found</span><span></span></div>';
-        return;
+    .then((raw) => {
+      // Pull the "Last updated" stamp out for the header, then drop the
+      // top badge/preamble block (everything before the first divider).
+      const stampMatch = raw.match(/Last updated:\s*([^\n<]+)/);
+      if (stampMatch) {
+        document.getElementById('lastUpdated').textContent = stampMatch[1].trim();
       }
-      seriesList.innerHTML = '';
-      manifest.series.forEach((series, i) => {
-        const row = document.createElement('div');
-        row.className = 'series-row';
 
-        const btn = document.createElement('button');
-        btn.className = 'series-btn';
-        btn.innerHTML = '<span>' + series.label + '</span><span class="count">' + series.count + '</span>';
-        btn.addEventListener('click', () => loadSeries(series, btn));
-        row.appendChild(btn);
+      const dividerIndex = raw.indexOf('\n---\n');
+      const body = dividerIndex !== -1 ? raw.slice(dividerIndex + 5) : raw;
 
-        if (series.zip) {
-          const dl = document.createElement('a');
-          dl.className = 'dl-btn';
-          dl.href = series.zip;
-          dl.title = 'Download ' + series.label + ' (.zip)';
-          dl.download = '';
-          dl.textContent = '\u2193';
-          row.appendChild(dl);
-        }
-
-        seriesList.appendChild(row);
-        if (i === 0) loadSeries(series, btn); // auto-load the first series
-      });
-
-      if (manifest.allZip) {
-        const allLink = document.createElement('a');
-        allLink.className = 'dl-all';
-        allLink.href = manifest.allZip;
-        allLink.download = '';
-        allLink.textContent = 'Download all series (.zip)';
-        seriesList.appendChild(allLink);
-      }
+      document.getElementById('content').innerHTML = marked.parse(body);
     })
     .catch((err) => {
-      seriesList.innerHTML =
-        '<div class="row"><span>No manifest found</span><span></span></div>' +
-        '<p class="note" style="margin-top:0.6rem;">Add scans via <code>prepare_scans.py</code> to populate this list, or open files manually below.</p>';
+      document.getElementById('content').innerHTML =
+        '<p class="state-msg">Couldn\'t load README.md (' + err.message + '). ' +
+        'This page needs to be served over http(s) — opening it directly as a local file ' +
+        'won\'t work due to browser restrictions. It will load correctly once published ' +
+        'via GitHub Pages, or if you run a local server (e.g. <code>python3 -m http.server</code>) in this folder.</p>';
     });
-
-  function setMeta(rows) {
-    metaBox.innerHTML = rows
-      .map(([k, v]) => `<div class="row"><span>${k}</span><span>${v ?? '—'}</span></div>`)
-      .join('');
-  }
-
-  app.addEventListener('loadstart', () => {
-    placeholder.textContent = 'Loading…';
-  });
-
-  app.addEventListener('loaderror', (e) => {
-    placeholder.textContent = 'Could not read this file as DICOM: ' + (e.error?.message || e.message || 'unknown error');
-  });
-
-  app.addEventListener('loadend', () => {
-    placeholder.remove();
-    app.setTool('Scroll');
-
-    const meta = app.getMetaData(0) || {};
-    const get = (tag) => meta[tag]?.value?.[0];
-
-    setMeta([
-      ['Modality', get('00080060')],
-      ['Series', get('0008103E')],
-      ['Rows × Cols', `${get('00280010') ?? '?'} × ${get('00280011') ?? '?'}`],
-      ['Slice thickness', get('00180050')],
-      ['Pixel spacing', get('00280030')],
-    ]);
-  });
-
-  document.getElementById('fileInput').addEventListener('change', (e) => {
-    if (e.target.files.length) {
-      app.loadFiles(e.target.files);
-    }
-  });
-
-  document.querySelectorAll('.tool-btn').forEach((btn) => {
-    btn.addEventListener('click', () => {
-      document.querySelectorAll('.tool-btn').forEach((b) => b.classList.remove('active'));
-      btn.classList.add('active');
-      app.setTool(btn.dataset.tool);
-    });
-  });
-
-  window.addEventListener('resize', () => app.onResize());
 </script>
 
 </body>
