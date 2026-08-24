@@ -3,27 +3,22 @@
 prepare_scans.py
 
 Run this LOCALLY against your raw, unedited DICOM export (the folder your
-hospital/clinic gave you). It does two things:
-
-  1. Strips identifying metadata (name, DOB, ID numbers, address, referring
-     physician, institution, device serial, etc.) from every file.
-  2. Groups the files by MRI series (e.g. "Sag T1", "Ax T2"), renames them
-     sequentially, and writes them into scans/<series-folder>/, plus a
-     scans/manifest.json that the website reads to build the series picker
-     and auto-load each series.
-  3. Zips each series (and the whole set) into scans/downloads/ so visitors
-     can download the anonymized DICOM files directly from the site.
+hospital/clinic gave you). It strips identifying metadata (name, DOB, ID
+numbers, address, referring physician, institution, device serial, etc.)
+from every file, and packs everything into a single zip file, organized
+into subfolders by MRI series (e.g. sag-t1/, ax-t2/).
 
 Requirements:
     pip install pydicom
 
 Usage:
-    python3 prepare_scans.py /path/to/raw_dicom_folder /path/to/repo/scans
+    python3 prepare_scans.py /path/to/raw_dicom_folder /path/to/repo/scans.zip
 
 Example:
-    python3 prepare_scans.py ~/Downloads/MRI_EXPORT ~/dev/nerve-diary/scans
+    python3 prepare_scans.py ~/Downloads/MRI_EXPORT ~/dev/nerve-diary/scans.zip
 
-After running, commit the resulting scans/ folder to your repo.
+After running, commit the resulting scans.zip to your repo (replacing any
+previous version).
 
 IMPORTANT LIMITATION: this strips metadata tags only. If any of your images
 have patient details "burned in" as visible text on the image itself
@@ -33,9 +28,8 @@ script cannot remove that — check a few slices visually before committing.
 
 import sys
 import re
-import json
-import shutil
 import zipfile
+import tempfile
 from pathlib import Path
 
 try:
@@ -47,7 +41,7 @@ except ImportError:
 
 # Tags that can identify the patient, referring clinicians, or the
 # scanning site. Left untouched: SeriesDescription, ProtocolName, and
-# clinical/technical fields (needed to label and render the scan correctly).
+# clinical/technical fields (needed to label the scan correctly).
 PHI_TAGS = [
     "PatientName", "PatientID", "PatientBirthDate", "PatientBirthTime",
     "PatientSex", "PatientAge", "PatientSize", "PatientWeight",
@@ -75,7 +69,6 @@ def anonymize(ds: pydicom.Dataset) -> None:
         if tag in ds:
             ds.data_element(tag).value = ""
     ds.remove_private_tags()
-    # Wipe any patient-identifying elements that live in nested sequences too.
     for elem in ds.iterall():
         if elem.VR == "PN":  # Person Name value representation
             elem.value = ""
@@ -87,10 +80,14 @@ def main():
         sys.exit(1)
 
     src_dir = Path(sys.argv[1]).expanduser()
-    out_dir = Path(sys.argv[2]).expanduser()
+    out_zip = Path(sys.argv[2]).expanduser()
 
     if not src_dir.is_dir():
         print(f"Input folder not found: {src_dir}")
+        sys.exit(1)
+
+    if out_zip.suffix.lower() != ".zip":
+        print("Output path should end in .zip, e.g. .../repo/scans.zip")
         sys.exit(1)
 
     files = [p for p in src_dir.rglob("*") if p.is_file()]
@@ -126,65 +123,37 @@ def main():
         print("No readable DICOM files found — nothing to do.")
         sys.exit(1)
 
-    if out_dir.exists():
-        shutil.rmtree(out_dir)
-    out_dir.mkdir(parents=True)
+    out_zip.parent.mkdir(parents=True, exist_ok=True)
 
-    manifest = {"series": []}
+    print("\nWriting zip...")
     used_slugs = set()
 
-    downloads_dir = out_dir / "downloads"
-    downloads_dir.mkdir(parents=True)
-    all_zip_path = downloads_dir / "all-series.zip"
-    all_zip = zipfile.ZipFile(all_zip_path, "w", zipfile.ZIP_DEFLATED)
+    with tempfile.TemporaryDirectory() as tmp_str:
+        tmp_dir = Path(tmp_str)
 
-    print("\nWriting series and building downloadable zips...")
+        with zipfile.ZipFile(out_zip, "w", zipfile.ZIP_DEFLATED) as zf:
+            for series_uid, data in sorted(series_map.items(), key=lambda kv: kv[1]["label"]):
+                label = data["label"]
+                slug = slugify(label)
+                base_slug = slug
+                n = 2
+                while slug in used_slugs:
+                    slug = f"{base_slug}-{n}"
+                    n += 1
+                used_slugs.add(slug)
 
-    # Sort series by their first instance's label for a stable, readable order.
-    for series_uid, data in sorted(series_map.items(), key=lambda kv: kv[1]["label"]):
-        label = data["label"]
-        slug = slugify(label)
-        base_slug = slug
-        n = 2
-        while slug in used_slugs:
-            slug = f"{base_slug}-{n}"
-            n += 1
-        used_slugs.add(slug)
+                instances = sorted(data["instances"], key=lambda t: t[0])
+                for i, (_, ds) in enumerate(instances, start=1):
+                    filename = f"{i:04d}.dcm"
+                    tmp_path = tmp_dir / filename
+                    ds.save_as(tmp_path, write_like_original=False)
+                    zf.write(tmp_path, f"{slug}/{filename}")
+                    tmp_path.unlink()
 
-        series_dir = out_dir / slug
-        series_dir.mkdir(parents=True)
+                print(f"  {label}  ->  {slug}/  ({len(instances)} slices)")
 
-        instances = sorted(data["instances"], key=lambda t: t[0])
-        file_paths = []
-        series_zip_path = downloads_dir / f"{slug}.zip"
-        with zipfile.ZipFile(series_zip_path, "w", zipfile.ZIP_DEFLATED) as series_zip:
-            for i, (_, ds) in enumerate(instances, start=1):
-                filename = f"{i:04d}.dcm"
-                file_disk_path = series_dir / filename
-                ds.save_as(file_disk_path, write_like_original=False)
-                file_paths.append(f"scans/{slug}/{filename}")
-
-                arcname = f"{slug}/{filename}"
-                series_zip.write(file_disk_path, arcname)
-                all_zip.write(file_disk_path, arcname)
-
-        manifest["series"].append({
-            "id": slug,
-            "label": label,
-            "count": len(file_paths),
-            "files": file_paths,
-            "zip": f"scans/downloads/{slug}.zip",
-        })
-        print(f"  {label}  ->  scans/{slug}/  ({len(file_paths)} slices)  +  scans/downloads/{slug}.zip")
-
-    all_zip.close()
-    manifest["allZip"] = "scans/downloads/all-series.zip"
-
-    with open(out_dir / "manifest.json", "w") as f:
-        json.dump(manifest, f, indent=2)
-
-    print(f"\nDone. {len(manifest['series'])} series written to {out_dir}")
-    print(f"All-series download: scans/downloads/all-series.zip")
+    size_mb = out_zip.stat().st_size / (1024 * 1024)
+    print(f"\nDone. Wrote {out_zip} ({size_mb:.1f} MB, {len(series_map)} series).")
     if skipped:
         print(f"Skipped {skipped} file(s) that weren't readable as DICOM.")
     print("Review a few slices visually for any burned-in text before committing —")

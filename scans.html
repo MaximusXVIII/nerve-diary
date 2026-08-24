@@ -3,121 +3,78 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Nerve Diary</title>
+<title>Nerve Diary — Scans</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
 <link rel="stylesheet" href="assets/style.css" />
 
 <style>
+  body { font-family: var(--sans); }
+
   main {
-    max-width: 720px;
+    max-width: 560px;
     margin: 0 auto;
-    padding: 2.5rem 1.5rem 6rem;
+    padding: 4rem 1.5rem 6rem;
+    text-align: center;
   }
 
-  .diary-content {
-    border-left: 2px solid var(--line);
-    margin-left: 0.4rem;
-    padding-left: 1.6rem;
-  }
-
-  .diary-content h2 {
-    font-family: var(--sans);
-    font-size: 0.75rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--ink-muted);
-    margin: 3rem 0 1rem;
-  }
-  .diary-content h2:first-child { margin-top: 0; }
-
-  .diary-content h3 {
-    position: relative;
-    font-family: var(--mono);
-    font-size: 0.95rem;
+  main h1 {
+    font-family: var(--serif);
+    font-size: 1.4rem;
     font-weight: 600;
     color: var(--ink);
-    margin: 2.4rem 0 0.8rem;
-    letter-spacing: 0.01em;
-  }
-  .diary-content h3::before {
-    content: "";
-    position: absolute;
-    left: -1.85rem;
-    top: 0.35em;
-    width: 9px;
-    height: 9px;
-    border-radius: 50%;
-    background: var(--accent);
-    box-shadow: 0 0 0 3px var(--paper);
+    margin: 0 0 0.75rem;
   }
 
-  .diary-content p { margin: 0.7rem 0; }
-  .diary-content ul { margin: 0.7rem 0; padding-left: 1.2rem; }
-  .diary-content li { margin: 0.3rem 0; }
+  main p {
+    font-family: var(--serif);
+    color: var(--ink-muted);
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0 0 2rem;
+  }
 
-  .diary-content p > strong:first-child,
-  .diary-content li > strong:first-child {
+  .dl-main {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.85rem 1.6rem;
+    border: 1px solid var(--accent);
+    border-radius: 8px;
+    color: var(--accent);
+    text-decoration: none;
     font-family: var(--mono);
     font-size: 0.85rem;
-    color: var(--accent);
-    font-weight: 500;
+    letter-spacing: 0.04em;
+    transition: background 0.15s ease;
   }
+  .dl-main:hover { background: var(--accent-soft); }
 
-  .diary-content blockquote {
-    background: var(--paper-alt);
-    border-left: 3px solid var(--accent);
-    margin: 1.2rem 0;
-    padding: 1rem 1.2rem;
-    font-style: italic;
-    color: var(--ink-muted);
-    border-radius: 0 6px 6px 0;
-  }
-
-  .diary-content img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-    border: 1px solid var(--line);
-    margin: 0.8rem 0;
+  .file-size {
     display: block;
-  }
-
-  .diary-content hr {
-    border: none;
-    border-top: 1px solid var(--line);
-    margin: 2.5rem 0;
-  }
-
-  .diary-content a { color: var(--accent); }
-
-  .diary-content code {
+    margin-top: 0.6rem;
     font-family: var(--mono);
-    background: var(--paper-alt);
-    border: 1px solid var(--line);
-    border-radius: 4px;
-    padding: 0.1em 0.4em;
-    font-size: 0.85em;
+    font-size: 0.72rem;
+    color: var(--ink-muted);
   }
-  .diary-content pre {
-    background: var(--paper-alt);
-    border: 1px solid var(--line);
-    border-radius: 8px;
-    padding: 1rem;
-    overflow-x: auto;
-  }
-  .diary-content pre code { border: none; padding: 0; }
 
   .state-msg {
     font-family: var(--sans);
     color: var(--ink-muted);
     font-size: 0.9rem;
-    padding: 2rem 0;
+  }
+
+  .note {
+    font-size: 0.8rem;
+    color: var(--ink-muted);
+    line-height: 1.6;
+    margin-top: 3rem;
+    padding-top: 1.2rem;
+    border-top: 1px solid var(--line);
+    text-align: left;
   }
 </style>
 </head>
@@ -126,46 +83,30 @@
 <header class="site-header">
   <div class="wordmark">Nerve <span>Diary</span></div>
   <nav class="tabs">
-    <a href="index.html" class="tab active">Diary</a>
-    <a href="scans.html" class="tab">Scans</a>
+    <a href="index.html" class="tab">Diary</a>
+    <a href="scans.html" class="tab active">Scans</a>
   </nav>
-  <div class="meta" id="lastUpdated"></div>
+  <div class="meta">MRI scans</div>
 </header>
 
 <main>
-  <div id="content" class="diary-content">
-    <p class="state-msg">Loading diary…</p>
+  <h1>MRI scans</h1>
+  <p>All series, anonymized, in a single archive.</p>
+
+  <div id="downloadArea">
+    <a class="dl-main" href="scans.zip" download>Download scans.zip</a>
   </div>
-  <a href="scans.zip">scans</a>
+
+  <p class="note">
+    This is a zip of the original DICOM (.dcm) files, organized into a folder
+    per series. Most operating systems won't open .dcm files directly, so
+    you'll likely need a DICOM viewer to inspect them — e.g.
+    <a href="https://www.microdicom.com/" target="_blank" rel="noopener">MicroDicom</a>
+    on Windows, or <a href="https://horosproject.org/" target="_blank" rel="noopener">Horos</a>
+    on Mac. Metadata (name, DOB, referring clinician, etc.) has been stripped
+    from these copies.
+  </p>
 </main>
-
-<script>
-  fetch('README.md')
-    .then((res) => {
-      if (!res.ok) throw new Error('HTTP ' + res.status);
-      return res.text();
-    })
-    .then((raw) => {
-      // Pull the "Last updated" stamp out for the header, then drop the
-      // top badge/preamble block (everything before the first divider).
-      const stampMatch = raw.match(/Last updated:\s*([^\n<]+)/);
-      if (stampMatch) {
-        document.getElementById('lastUpdated').textContent = stampMatch[1].trim();
-      }
-
-      const dividerIndex = raw.indexOf('\n---\n');
-      const body = dividerIndex !== -1 ? raw.slice(dividerIndex + 5) : raw;
-
-      document.getElementById('content').innerHTML = marked.parse(body);
-    })
-    .catch((err) => {
-      document.getElementById('content').innerHTML =
-        '<p class="state-msg">Couldn\'t load README.md (' + err.message + '). ' +
-        'This page needs to be served over http(s) — opening it directly as a local file ' +
-        'won\'t work due to browser restrictions. It will load correctly once published ' +
-        'via GitHub Pages, or if you run a local server (e.g. <code>python3 -m http.server</code>) in this folder.</p>';
-    });
-</script>
 
 </body>
 </html>
