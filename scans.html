@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Nerve Diary — Scans</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400;600&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/dwv@0.34.1/dist/dwv.min.js"></script>
+<link rel="stylesheet" href="assets/style.css" />
+
+<style>
+  body { font-family: var(--sans); }
+
+  main {
+    display: grid;
+    grid-template-columns: 1fr 280px;
+    gap: 1px;
+    background: var(--line);
+    height: calc(100vh - 61px);
+  }
+
+  #layerGroup0 {
+    background: #0b0d0c;
+    position: relative;
+    overflow: hidden;
+  }
+
+  aside {
+    background: var(--paper-alt);
+    padding: 1.2rem;
+    overflow-y: auto;
+    font-size: 0.85rem;
+  }
+
+  aside h2 {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--ink-muted);
+    margin: 1.6rem 0 0.6rem;
+    font-weight: 600;
+  }
+  aside h2:first-child { margin-top: 0; }
+
+  .series-btn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem;
+    width: 100%;
+    padding: 0.55rem 0.7rem;
+    margin-top: 0.35rem;
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    text-align: left;
+  }
+  .series-btn:hover { border-color: var(--accent); }
+  .series-btn.active { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+  .series-btn .count {
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    color: var(--ink-muted);
+  }
+  .series-btn.active .count { color: var(--accent); }
+
+  .series-row {
+    display: flex;
+    align-items: stretch;
+    gap: 0.3rem;
+    margin-top: 0.35rem;
+  }
+  .series-row .series-btn { margin-top: 0; flex: 1; }
+  .dl-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 34px;
+    flex-shrink: 0;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--ink-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .dl-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+  .dl-all {
+    display: block;
+    text-align: center;
+    padding: 0.5rem 0.7rem;
+    margin-top: 0.6rem;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    color: var(--ink-muted);
+    text-decoration: none;
+    font-family: var(--mono);
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .dl-all:hover { border-color: var(--accent); color: var(--accent); }
+
+  .drop-label {
+    display: block;
+    text-align: center;
+    padding: 0.65rem 0.5rem;
+    border: 1px dashed var(--line);
+    border-radius: 8px;
+    color: var(--ink-muted);
+    font-family: var(--mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+  .drop-label:hover { border-color: var(--accent); color: var(--accent); }
+  input[type="file"] { display: none; }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+    padding: 0.35rem 0;
+    border-bottom: 1px solid var(--line);
+  }
+  .row span:first-child { color: var(--ink-muted); }
+  .row span:last-child { text-align: right; word-break: break-word; color: var(--ink); }
+
+  .tool-btn {
+    width: 100%;
+    padding: 0.55rem;
+    margin-top: 0.4rem;
+    background: transparent;
+    border: 1px solid var(--line);
+    color: var(--ink);
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    text-align: left;
+  }
+  .tool-btn.active { border-color: var(--accent); color: var(--accent); background: var(--accent-soft); }
+  .tool-btn:hover { border-color: var(--accent); }
+
+  .note {
+    font-size: 0.78rem;
+    color: var(--ink-muted);
+    line-height: 1.5;
+    margin-top: 1.6rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--line);
+  }
+
+  .placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: #8a9089;
+    text-align: center;
+    padding: 2rem;
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-family: var(--sans);
+  }
+  .placeholder strong { color: #e4e8e3; }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wordmark">Nerve <span>Diary</span></div>
+  <nav class="tabs">
+    <a href="index.html" class="tab">Diary</a>
+    <a href="scans.html" class="tab active">Scans</a>
+  </nav>
+  <div class="meta">MRI viewer</div>
+</header>
+
+<main>
+  <div id="layerGroup0">
+    <div class="placeholder" id="placeholder">
+      Loading the first series…<br/>
+      Or pick a different one, or your own files, from the sidebar.
+    </div>
+  </div>
+
+  <aside>
+    <h2>Series</h2>
+    <div id="seriesList">
+      <div class="row"><span>Loading…</span><span></span></div>
+    </div>
+
+    <h2>Or load your own</h2>
+    <label class="drop-label" for="fileInput">Open DICOM file(s)</label>
+    <input type="file" id="fileInput" multiple accept=".dcm,application/dicom" />
+
+    <h2>Tools</h2>
+    <button class="tool-btn active" data-tool="Scroll">Scroll (slices)</button>
+    <button class="tool-btn" data-tool="WindowLevel">Window / Level</button>
+    <button class="tool-btn" data-tool="ZoomAndPan">Zoom &amp; Pan</button>
+
+    <h2>Metadata</h2>
+    <div id="metaBox">
+      <div class="row"><span>Status</span><span>No file loaded</span></div>
+    </div>
+
+    <p class="note">
+      Files are read entirely in your browser and are never uploaded anywhere.
+      If you commit scans into this repo to auto-load them, make sure any
+      identifying DICOM header fields (name, DOB) are stripped first if the
+      repo is public.
+    </p>
+  </aside>
+</main>
+
+<script>
+  const app = new dwv.App();
+  app.init({
+    dataViewConfigs: { '*': [{ divId: 'layerGroup0' }] }
+  });
+
+  const placeholder = document.getElementById('placeholder');
+  const metaBox = document.getElementById('metaBox');
+  const seriesList = document.getElementById('seriesList');
+  let currentSeriesId = null;
+
+  function loadSeries(series, btn) {
+    document.querySelectorAll('.series-btn').forEach((b) => b.classList.remove('active'));
+    if (btn) btn.classList.add('active');
+    currentSeriesId = series.id;
+    metaBox.innerHTML = '<div class="row"><span>Status</span><span>Loading ' + series.label + '…</span></div>';
+
+    app.reset();
+    app.loadURLs(series.files);
+  }
+
+  fetch('scans/manifest.json')
+    .then((res) => {
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      return res.json();
+    })
+    .then((manifest) => {
+      if (!manifest.series || !manifest.series.length) {
+        seriesList.innerHTML = '<div class="row"><span>No series found</span><span></span></div>';
+        return;
+      }
+      seriesList.innerHTML = '';
+      manifest.series.forEach((series, i) => {
+        const row = document.createElement('div');
+        row.className = 'series-row';
+
+        const btn = document.createElement('button');
+        btn.className = 'series-btn';
+        btn.innerHTML = '<span>' + series.label + '</span><span class="count">' + series.count + '</span>';
+        btn.addEventListener('click', () => loadSeries(series, btn));
+        row.appendChild(btn);
+
+        if (series.zip) {
+          const dl = document.createElement('a');
+          dl.className = 'dl-btn';
+          dl.href = series.zip;
+          dl.title = 'Download ' + series.label + ' (.zip)';
+          dl.download = '';
+          dl.textContent = '\u2193';
+          row.appendChild(dl);
+        }
+
+        seriesList.appendChild(row);
+        if (i === 0) loadSeries(series, btn); // auto-load the first series
+      });
+
+      if (manifest.allZip) {
+        const allLink = document.createElement('a');
+        allLink.className = 'dl-all';
+        allLink.href = manifest.allZip;
+        allLink.download = '';
+        allLink.textContent = 'Download all series (.zip)';
+        seriesList.appendChild(allLink);
+      }
+    })
+    .catch((err) => {
+      seriesList.innerHTML =
+        '<div class="row"><span>No manifest found</span><span></span></div>' +
+        '<p class="note" style="margin-top:0.6rem;">Add scans via <code>prepare_scans.py</code> to populate this list, or open files manually below.</p>';
+    });
+
+  function setMeta(rows) {
+    metaBox.innerHTML = rows
+      .map(([k, v]) => `<div class="row"><span>${k}</span><span>${v ?? '—'}</span></div>`)
+      .join('');
+  }
+
+  app.addEventListener('loadstart', () => {
+    placeholder.textContent = 'Loading…';
+  });
+
+  app.addEventListener('loaderror', (e) => {
+    placeholder.textContent = 'Could not read this file as DICOM: ' + (e.error?.message || e.message || 'unknown error');
+  });
+
+  app.addEventListener('loadend', () => {
+    placeholder.remove();
+    app.setTool('Scroll');
+
+    const meta = app.getMetaData(0) || {};
+    const get = (tag) => meta[tag]?.value?.[0];
+
+    setMeta([
+      ['Modality', get('00080060')],
+      ['Series', get('0008103E')],
+      ['Rows × Cols', `${get('00280010') ?? '?'} × ${get('00280011') ?? '?'}`],
+      ['Slice thickness', get('00180050')],
+      ['Pixel spacing', get('00280030')],
+    ]);
+  });
+
+  document.getElementById('fileInput').addEventListener('change', (e) => {
+    if (e.target.files.length) {
+      app.loadFiles(e.target.files);
+    }
+  });
+
+  document.querySelectorAll('.tool-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tool-btn').forEach((b) => b.classList.remove('active'));
+      btn.classList.add('active');
+      app.setTool(btn.dataset.tool);
+    });
+  });
+
+  window.addEventListener('resize', () => app.onResize());
+</script>
+
+</body>
+</html>
