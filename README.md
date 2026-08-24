@@ -1117,7 +1117,7 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
-## 24th august
+## 24th august 1448? Putting after the fact as i didnt list originally
 - **Pain score:** 6 in shoulder, and fire feeling in hand of a 3
 - **Pins and needles score:** 5 for pins and needles in the little finger
 - **Activity:** at work desk
@@ -1126,6 +1126,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins?
+
+## 2154
+- **Pain score:** 7 for shoulder pains, sort of a persistent gnawing pain. 4 for the hand nerve type pain. Feels almost like light burning pain on the hand
+- **Pins and needles score:** 2 for pins and needles type pain which is at the hand or little finger roughly
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins whilst at desk
 ---
 
 ## [Date] [Time]
