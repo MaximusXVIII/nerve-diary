@@ -1116,6 +1116,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
+
+## 24th august
+- **Pain score:** 6 in shoulder, and fire feeling in hand of a 3
+- **Pins and needles score:** 5 for pins and needles in the little finger
+- **Activity:** at work desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins?
 ---
 
 ## [Date] [Time]
