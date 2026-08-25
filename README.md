@@ -1136,6 +1136,19 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins whilst at desk
+
+## 25th august 1109
+- **Pain score:** 8 in the shoulder pain. More focused on a particular area than fully radiating over the shoulder / trapezius. Have hopefully attached an image. 0 on nerve pain and burning
+- **Pins and needles score:** 1 on pins and needles, but broadly okay. more concern of the shoulder
+- **Activity:** at desk working
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins?
+
+<img width="285" height="317" alt="image" src="https://github.com/user-attachments/assets/cf3bf1cc-1f34-4135-b956-f4d419a90878" />
+
 ---
 
 ## [Date] [Time]
