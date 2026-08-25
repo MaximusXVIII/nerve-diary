@@ -1149,6 +1149,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 
 <img width="285" height="317" alt="image" src="https://github.com/user-attachments/assets/cf3bf1cc-1f34-4135-b956-f4d419a90878" />
 
+## 1305
+- **Pain score:** 9 on shoulder, really painful today and present. 1 on pins and needles pain, basically not there as before
+- **Pins and needles score:** 1 as above there is pins and needles, but quite faint, appearing in thumb and index area
+- **Activity:** at desk working
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 1 hour
+
 ---
 
 ## [Date] [Time]
