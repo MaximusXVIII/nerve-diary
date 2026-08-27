@@ -1169,6 +1169,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins?
 
+## 27th august 1635
+- **Pain score:** 5 on shoulder pain, 0 burning sensations and such
+- **Pins and needles score:** 1 maybe ? quite low si maybe finally getting better
+- **Activity:** walking home
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
 ---
 
 ## [Date] [Time]
