@@ -1189,6 +1189,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10mins roughly
 
+
+## 28th august 1616
+- **Pain score:** 4 for shoulder, 1 for hand sendatuon
+- **Pins and needles score:** 2 for pins in palm
+- **Activity:** walking hole
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins
 ---
 
 ## [Date] [Time]
