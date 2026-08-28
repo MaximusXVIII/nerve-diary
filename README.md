@@ -1199,6 +1199,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
+
+## 2218
+- **Pain score:** 4 on shoulder pain roughly, 3 on the pressure type pain in the forearm.
+- **Pins and needles score:** 6 on pins and needles, feels like burning in the hand/knuckles area alongside the forearm
+- **Activity:** at my desk
+- **Numbness score:** 2
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 30 mins roughly
 ---
 
 ## [Date] [Time]
