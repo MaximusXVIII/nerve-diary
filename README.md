@@ -1221,6 +1221,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** for the past hour?
 
+## 2136
+- **Pain score:** 7 in wrist throughout the day, 10 in shoulder, probably the worst it ever has been
+- **Pins and needles score:** 6 in hand and wrist area, getting both pins and burning sensations
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 2 hours roughly
+
 ---
 
 ## [Date] [Time]
