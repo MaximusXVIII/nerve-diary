@@ -1209,6 +1209,18 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 30 mins roughly
+
+
+## 29th august 1023
+- **Pain score:** 8 in shoulder roughly, pin point to the previous image shown most recent, 4 in terms of pressure in the forearm
+- **Pins and needles score:** 5 for pins, feels like burning again
+- **Activity:** at desk
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** for the past hour?
+
 ---
 
 ## [Date] [Time]
