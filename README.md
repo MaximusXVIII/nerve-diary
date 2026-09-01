@@ -1242,6 +1242,27 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** hour roughly
 
+## 31st august 1014
+- **Pain score:** 4 in the shoulder, 2 for pressure in the arm
+- **Pins and needles score:** 4 whilst laying down as getting pins and needles 
+- **Activity:**
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:**
+- **Notes** This wsas meant to be uploaded yesterday, but apparently didnt get done
+
+## 1st september 0700
+- **Pain score:** 7 for shoulder, 5 for pain on the forearm due to pressure type pain
+- **Pins and needles score:** 6 with lots of pins and needles on the little finger 
+- **Activity:** woken up
+- **Numbness score:** 2
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
