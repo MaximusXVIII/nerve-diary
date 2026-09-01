@@ -1263,6 +1263,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 2057
+- **Pain score:** 3 in shoulder, 2 in pressure on forearm
+- **Pins and needles score:** 8 on pins laregly occuring in the little finger and next along
+- **Activity:** at desk
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+- **Notes** Was in a lab so not able to add particular incident, but had pain in left arm and noted discolouration in comparison to  the right arm. Was in a meeting, but nothing particularly abnormal occured to cause these pains and discolouration. This was around 1210.
+
 ---
 
 ## [Date] [Time]
