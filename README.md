@@ -1274,6 +1274,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Duration of episode:** 10 mins
 - **Notes** Was in a lab so not able to add particular incident, but had pain in left arm and noted discolouration in comparison to  the right arm. Was in a meeting, but nothing particularly abnormal occured to cause these pains and discolouration. This was around 1210.
 
+## 2nd september 1210 & 1235
+- **Pain score:** 8 shoulder on both times, 2 for pressure first time then 1 later
+- **Pins and needles score:** pins 8 on first one then 3 on other
+- **Activity:** customer meeting
+- **Numbness score:** 2 for both
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 for first, 20 on second
+- **Notes** was in a customer meeting / lab all day so no phone to upload this update
+
 ---
 
 ## [Date] [Time]
