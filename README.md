@@ -1285,6 +1285,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Duration of episode:** 5 for first, 20 on second
 - **Notes** was in a customer meeting / lab all day so no phone to upload this update
 
+## 3rd september 1740
+- **Pain score:** 6 pain in shoulder and pressure of 5 in hand
+- **Pins and needles score:** 7 in pins ok hand but not in forearm
+- **Activity:** sitting down
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
