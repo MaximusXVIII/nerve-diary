@@ -1295,6 +1295,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 4th september 1600
+- **Pain score:** 7 for shoulder, 8 for pain pressure in arm.
+- **Pins and needles score:** 4 on pins mainly in forearm
+- **Activity:** disassembling car
+- **Numbness score:** 3 quite rare dont think its gone that high before
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour roughly
+
 ---
 
 ## [Date] [Time]
@@ -1306,6 +1316,8 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:**
+
+
 
 
 <a id="bottom"></a>
