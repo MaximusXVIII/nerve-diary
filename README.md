@@ -1315,6 +1315,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins roughly for the pins but hour for the shoulder
 
+## 5th september 1939
+- **Pain score:** 5 on the shoulder, 2 on pressure on forearm
+- **Pins and needles score:** 8 on the pins and needles, getting pains of fire on the forearm and hand
+- **Activity:** at desk 
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour roughly so far
+
 ---
 
 ## [Date] [Time]
