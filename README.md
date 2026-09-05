@@ -1325,6 +1325,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** hour roughly so far
 
+## 2140
+- **Pain score:** 5 in shoulder, and 3 in pressure in the arm
+- **Pins and needles score:** 7 with more fiery pain sensations in the arms
+- **Activity:** laying on sofa
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 30 mins roughly
+
 ---
 
 ## [Date] [Time]
