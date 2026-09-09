@@ -1375,6 +1375,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 2141
+- **Pain score:** 8 in shoulder pain whilst at my desk before bed. 0 on pressure at least
+- **Pins and needles score:** 4 in the tips of my fingers, predominantly the little fingers
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** shoulder peaked just now and came down again hovering at a 6 roughly
+
 ---
 
 ## [Date] [Time]
