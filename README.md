@@ -1385,6 +1385,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** shoulder peaked just now and came down again hovering at a 6 roughly
 
+## 10th september overall
+- **Pain score:** pain hovered at 3 throughout random points of the day but some twinges were a 5. some pain in the hands was experienced
+- **Pins and needles score:** 3 flr the most part too but laying in bed it has gotten worse which seems expected no. this is a score of 5
+- **Activity:** overall
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** all day
+
 ---
 
 ## [Date] [Time]
