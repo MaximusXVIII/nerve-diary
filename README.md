@@ -1395,6 +1395,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** all day
 
+## 11th september overall
+- **Pain score:** 6 at different parts throughout the day. often only being 2.
+- **Pins and needles score:** 2 for the most part , peaking a few times at a 4
+- **Activity:** just working throughout the day
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** all day coverage
+
 ---
 
 ## [Date] [Time]
