@@ -1415,6 +1415,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
+
+## 14th september 0549
+- **Pain score:** 4 on shoulder pain this morning, 0 on pressure
+- **Pins and needles score:** 5 on the pins and needles, which is across my little finger, next along and then forearm too. particularly along the elbow crease.
+- **Activity:** was sleeping :(
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 20 mins roughly
+
 ---
 
 ## [Date] [Time]
