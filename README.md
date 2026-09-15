@@ -1426,6 +1426,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 20 mins roughly
 
+
+## 15th september overall
+- **Pain score:** 2-3 on shoulder pain throughout the day, 0 on pressure
+- **Pins and needles score:** 2 for most or day in little finger but quite in frequent
+- **Activity:** overall record
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** overall
+
 ---
 
 ## [Date] [Time]
