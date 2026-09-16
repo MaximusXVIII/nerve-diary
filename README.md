@@ -1437,6 +1437,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** overall
 
+## 16th september 0709
+- **Pain score:** 2 on shoulder, currently a 3 on pressure in the arm
+- **Pins and needles score:** 7 in the arms and hands, quite a change from yesterday
+- **Activity:** was laying in bed, have since gotten up and the pain has changed to be lesser but still present
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 20 mins roughly so far
+
 ---
 
 ## [Date] [Time]
