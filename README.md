@@ -1437,7 +1437,7 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** overall
 
-## 17th september
+## 17th september 1447?
 - **Pain score:** 8 on shoulder and 0 on pressure
 - **Pins and needles score:** 1 on pins in little finger
 - **Activity:** just walking around
@@ -1446,6 +1446,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** hour roughly?
+
+## 2314
+- **Pain score:** 6 on shoulder and 2 on pressure in forearm 
+- **Pins and needles score:** 4 in pins in the little finger, but also some in forearm too
+- **Activity:** at desk
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** forearm was around 10, shoulder has been on and off since 1447 roughly ? pins is last hour
 
 ---
 
