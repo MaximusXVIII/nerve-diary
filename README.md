@@ -2,7 +2,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/MaximusXVIII/nerve-diary?display_timestamp=author)
 <br>
 <br>
-<!--LAST_UPDATED-->Last updated: 16th September 06:12:35 UTC
+<!--LAST_UPDATED-->Last updated: 14th September 04:53:43 UTC
 <br>
 <br>
 
@@ -1437,15 +1437,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** overall
 
-## 16th september 0709
-- **Pain score:** 2 on shoulder, currently a 3 on pressure in the arm
-- **Pins and needles score:** 7 in the arms and hands, quite a change from yesterday
-- **Activity:** was laying in bed, have since gotten up and the pain has changed to be lesser but still present
-- **Numbness score:** 1
+## 17th september
+- **Pain score:** 8 on shoulder and 0 on pressure
+- **Pins and needles score:** 1 on pins in little finger
+- **Activity:** just walking around
+- **Numbness score:** 0 
 - **Activities affected:** N/A
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
-- **Duration of episode:** 20 mins roughly so far
+- **Duration of episode:** hour roughly?
 
 ---
 
