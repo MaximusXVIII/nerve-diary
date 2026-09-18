@@ -1457,6 +1457,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** forearm was around 10, shoulder has been on and off since 1447 roughly ? pins is last hour
 
+
+## 18th september 1401
+- **Pain score:** 4 in neck / shoulder , 0 arm pressure
+- **Pins and needles score:** 3 in hand currently 
+- **Activity:** in car
+- **Numbness score:** 1
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 20 mins
+
 ---
 
 ## [Date] [Time]
