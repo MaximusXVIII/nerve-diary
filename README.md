@@ -1478,6 +1478,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** hour
 
+## 20th september 1220 1228
+- **Pain score:** 5 in pain whilst driving earlier, pain of 3 in shoulder whole time
+- **Pins and needles score:** 0 thankfully
+- **Activity:** driving
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 3 hours while driving
+
 ---
 
 ## [Date] [Time]
