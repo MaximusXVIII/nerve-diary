@@ -1488,6 +1488,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 3 hours while driving
 
+## 2200
+- **Pain score:** 4 in shoulder, 0 in pressure
+- **Pins and needles score:** 5 in the forearm area , primarily towards the elbow crease
+- **Activity:** at desk
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
