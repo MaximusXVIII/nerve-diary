@@ -1498,6 +1498,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 21st september 1620
+- **Pain score:** 5 on shoulder and 2 in pressure in the arm to the fingers
+- **Pins and needles score:** 3 for pine in hands and fingers
+- **Activity:** walking home
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
