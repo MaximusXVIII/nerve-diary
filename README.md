@@ -28,11 +28,11 @@ It was the impression of the radiologist that the injuries sustained matched tha
 
 ## AI Summary
 
-Provided is a summary of the pain so far, from the 9th June to 15th July. This is for simplicity to avoid reading lots of text. Will look to update this every other week — this was last put in on 16th July. This was produced via the prompt "Based on this information, can you provide a one paragraph summary of this information," pasted into Copilot from the first heading (Purpose) through to the final entry.
+Provided is a summary of the pain so far, from the 9th June to 15th July. This is for simplicity to avoid reading lots of text. Will look to update this every other week — this was last put in on 22nd September. This was produced via the prompt "Based on this information, can you provide a one paragraph summary of this information," pasted into Copilot from the first heading (Purpose) through to the final entry.
 
 
 
-> This diary documents a persistent pattern of left-sided nerve symptoms and associated shoulder pain recorded between June and August, with entries made contemporaneously to demonstrate that symptoms were experienced and logged over time rather than generated retrospectively. The symptoms most commonly reported are pins and needles, burning sensations, numbness, pressure, and nerve pain affecting the left hand, fingers, palm, forearm, and occasionally extending toward the shoulder. Episodes frequently occur without an obvious trigger, although certain activities and positions appear to aggravate symptoms, particularly desk work, driving, walking, lying flat in bed, extending the arm downward, and manual tasks such as lifting, moving boxes, or household chores. Several entries note reduced sensation in the left hand compared with the right, intermittent numbness, and occasions where symptoms affect typing, sleep, or general comfort. Pain and pins and needles vary considerably in intensity, ranging from mild discomfort to severe episodes scoring 8-9/10, with recurring involvement of the little finger, ring finger, palm, and forearm. Throughout the diary, the author also records significant and sometimes severe shoulder and trapezius pain, often occurring alongside the nerve symptoms, while making efforts to minimise external influences by carrying bags on the opposite shoulder and using pain medication when required. Overall, the record shows recurring, fluctuating neurological symptoms and shoulder pain over a period of more than two months, occurring across a wide range of everyday activities and positions, with no consistent explanation from normal movement or posture alone.
+> This diary records left-sided nerve symptoms and shoulder pain logged as they happened between 9 June and 21 September, with the commit history showing the entries were written over time rather than after the fact. The main symptoms are pins and needles, burning, pressure, and intermittent numbness in the left hand and forearm. They mostly affect the little and ring fingers, the little-finger side of the palm, the knuckles, and the forearm near the elbow crease, and sometimes spread towards the shoulder. A GP sensation test on 12 June found reduced sensation on the left, and a simple arm-extension test showed the left arm developing pins and needles after about 20 seconds, compared with about 90 seconds for the right. Symptoms often start with no obvious trigger. They tend to be worse at the desk (especially with the elbow bent on an armrest), while driving or travelling, when walking, when lying in bed, and when the arm hangs downward. Episodes range from mild to severe (8–9/10), usually last minutes to a couple of hours, and occasionally disrupt sleep. From late July, shoulder and trapezius pain became increasingly prominent, focused on a specific point, worsened by lifting and moving boxes during a house move, and reached 10/10 on 18 and 29 August. Less common features included pins and needles reaching the shoulder, hot and cold or "draft" sensations, and visible discolouration of the left arm compared with the right on 1 September. Pain was managed with amitriptyline (which stopped around late July and restarted on 20 August), painkillers, and a lidocaine patch, and bags were carried on the right to avoid aggravating the left side. By September, the nerve symptoms were generally lower and more intermittent but still had spikes of 7–8/10, while the shoulder pain continued daily. An MRI showed mild disc desiccation and a broad-based bulge at C3-4, with minor bulges at C5-6 and T1-2 and no convincing nerve root compression, and the radiologist said these findings were consistent with a car accident or whiplash injury.
 
 [⬇️ Jump to bottom](#bottom)
 
@@ -1507,6 +1507,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
+
+## 22nd september 1724
+- **Pain score:** general 4 in shoulder pain but persistent shoulder/neck pain of 8 that is short and sharp. For other pain like arm pressure, 0
+- **Pins and needles score:** 3 in pins in the pinky and ring finger 
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour roughly
+
 
 ---
 
