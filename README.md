@@ -1518,6 +1518,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** hour roughly
 
+## 23rd September 1309 
+- **Pain score:** 3 on shoulder pain, 0 on pressure
+- **Pins and needles score:** 5 on pins and needles in the upper arm to the end of fingers 
+- **Activity:** walking along
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins while walking for the main pain, 30 mins for the end of fingers feelings
 
 ---
 
