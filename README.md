@@ -1528,6 +1528,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins while walking for the main pain, 30 mins for the end of fingers feelings
 
+## 24th september 0707
+- **Pain score:** 7 in shoulder pain currently, 2 on pressure
+- **Pins and needles score:** pins and needles in my arm and forearm throughout, score of a 5 
+- **Activity:** at desk
+- **Numbness score:** 2
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
 ---
 
 ## [Date] [Time]
