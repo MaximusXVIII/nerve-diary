@@ -1558,6 +1558,9 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 1729
+- **Notes** while driving i had several moments of pins and needles ranging between 4-7 in pain. also continuous shoulder pain for a few hours at a 2 to 3
+
 ---
 
 ## [Date] [Time]
