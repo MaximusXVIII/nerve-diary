@@ -1561,6 +1561,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 ## 1729
 - **Notes** while driving i had several moments of pins and needles ranging between 4-7 in pain. also continuous shoulder pain for a few hours at a 2 to 3
 
+## 26th september 1330
+- **Pain score:** 5 on shoulder pain, 2 in pressure
+- **Pins and needles score:** 6 on pins in the forearm and hand acorss all
+- **Activity:** walking around
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour
+
 ---
 
 ## [Date] [Time]
