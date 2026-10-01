@@ -1590,6 +1590,18 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
+
+## 1st october 0700
+- **Pain score:** 3 in the shoulder rhis morning, and 1 on pressure in the forearm
+- **Pins and needles score:** 2 on pins and needles, palm and pinky primarily 
+- **Activity:** laying in bed
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
+
+
 ---
 
 ## [Date] [Time]
