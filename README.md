@@ -1601,6 +1601,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 2023
+- **Pain score:** 4 on shoulder pain, 4 again on the forearm roughly in the forearm and hand
+- **Pins and needles score:** 3 in pins in the hand primarily in the pinky
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** hour
 
 ---
 
