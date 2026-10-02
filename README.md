@@ -1611,6 +1611,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** hour
 
+
+## 2nd october 2024
+- **Pain score:** 5 in shoulder pain, 0 in pressure
+- **Pins and needles score:** 3 for pins in the hand broadly
+- **Activity:** watching tv
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 10 mins
 ---
 
 ## [Date] [Time]
