@@ -1652,6 +1652,19 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** past 6 ish hours travelling
 
+## 7th october
+- Am not available on the phone for following month or so during the day, so giving rough markings for when i noted something, but not able to give anything beyond that
+- **Pain score:** pain ranged from 4 - 7 today in the shoulder, was working at a desk and teaching today, so up and down and standing so lot of strain. 0 for pressure
+- **Pins and needles score:** 1 for on and off pins and needles pain, largely in the pinky as usualy
+- **Activity:** teaching/desk
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** covered for most of the day since say 8 hours ish?
+
+
+
 ---
 
 ## [Date] [Time]
