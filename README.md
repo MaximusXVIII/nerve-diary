@@ -1663,7 +1663,15 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** covered for most of the day since say 8 hours ish?
 
-
+## 8th october 
+- **Pain score:** 8 for the shoulder pain, probably the worst in a while. Considerable for the whole day so like 12 hours. 0 on pressure
+- **Pins and needles score:** 1 throughout parts of the day but very minor
+- **Activity:** working/teaching
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 12 hours
 
 ---
 
