@@ -1683,6 +1683,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 12 hour period
 
+## 10th October 0908
+- **Pain score:** 8 on shoulder pain and 6 on pressure in the forearm to tips of all fingers
+- **Pins and needles score:** 7 in pins and needles throughout the forearm and hand
+- **Activity:**
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** been about 10 mins so far but this feels different to normal so unclear on duration. hopefully not as bad as other days this week
+
 ---
 
 ## [Date] [Time]
