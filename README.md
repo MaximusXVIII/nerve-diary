@@ -1703,6 +1703,16 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins?
 
+## 14th october
+- **Pain score:** 8 for most part lf the day, causing pressure / numbness in the rest of the arm of around 7/8
+- **Pins and needles score:** between 5/7 for the day. not ideal but sjoulder was the worst part
+- **Activity:** teaching
+- **Numbness score:** 4
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** all day
+
 ---
 
 ## [Date] [Time]
