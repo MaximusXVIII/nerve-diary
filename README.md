@@ -28,11 +28,11 @@ It was the impression of the radiologist that the injuries sustained matched tha
 
 ## AI Summary
 
-Provided is a summary of the pain so far, from the 9th June to 15th July. This is for simplicity to avoid reading lots of text. Will look to update this every other week — this was last put in on 22nd September. This was produced via the prompt "Based on this information, can you provide a one paragraph summary of this information," pasted into Copilot from the first heading (Purpose) through to the final entry.
+Provided is a summary of the pain so far, from the 9th June to 15th July. This is for simplicity to avoid reading lots of text. Will look to update this every other week — this was last put in on 8th november. This was produced via the prompt "Based on this information, can you provide a one paragraph summary of this information," pasted into Copilot from the first heading (Purpose) through to the final entry.
 
 
 
-> This diary records left-sided nerve symptoms and shoulder pain logged as they happened between 9 June and 21 September, with the commit history showing the entries were written over time rather than after the fact. The main symptoms are pins and needles, burning, pressure, and intermittent numbness in the left hand and forearm. They mostly affect the little and ring fingers, the little-finger side of the palm, the knuckles, and the forearm near the elbow crease, and sometimes spread towards the shoulder. A GP sensation test on 12 June found reduced sensation on the left, and a simple arm-extension test showed the left arm developing pins and needles after about 20 seconds, compared with about 90 seconds for the right. Symptoms often start with no obvious trigger. They tend to be worse at the desk (especially with the elbow bent on an armrest), while driving or travelling, when walking, when lying in bed, and when the arm hangs downward. Episodes range from mild to severe (8–9/10), usually last minutes to a couple of hours, and occasionally disrupt sleep. From late July, shoulder and trapezius pain became increasingly prominent, focused on a specific point, worsened by lifting and moving boxes during a house move, and reached 10/10 on 18 and 29 August. Less common features included pins and needles reaching the shoulder, hot and cold or "draft" sensations, and visible discolouration of the left arm compared with the right on 1 September. Pain was managed with amitriptyline (which stopped around late July and restarted on 20 August), painkillers, and a lidocaine patch, and bags were carried on the right to avoid aggravating the left side. By September, the nerve symptoms were generally lower and more intermittent but still had spikes of 7–8/10, while the shoulder pain continued daily. An MRI showed mild disc desiccation and a broad-based bulge at C3-4, with minor bulges at C5-6 and T1-2 and no convincing nerve root compression, and the radiologist said these findings were consistent with a car accident or whiplash injury.
+> This is a personal symptom diary for the left arm, kept from 9 June to 7 November and committed to GitHub over time so the timestamps show the entries were written as things happened. It begins just after a GP sensation test on 12 June found reduced feeling on the left side. The writer scores pain, pins and needles, and numbness, and says what they were doing at the time. They also took steps to avoid making things worse, such as carrying bags on the other shoulder. Through June, July and August the main problem was nerve symptoms: pins and needles, burning, and sharp "funny bone" jolts. These centred on the little and ring fingers, the outer palm, the forearm and the inside of the elbow, and were often scored 5–9. The worst included a night of near-constant symptoms on 4 July (pins and needles 9) and sudden jolts on 27 July. Symptoms were repeatedly triggered by letting the arm hang straight down, lying flat in bed, resting a bent elbow on a desk armrest, driving, and sitting at a desk. In a self-test on 15 June, the left arm got pins and needles after about 20 seconds compared with about 90 seconds for the right. Other notable points: amitriptyline seemed to help a little, the course ended in late July and was restarted by 20 August, and on 1 September the left arm looked discoloured compared with the right. From late July, shoulder and trapezius pain took over. It was often scored 7–10, peaking at 10 on 18 and 29 August, and was made worse by lifting during a house move, teaching, and housework. From mid-September the nerve symptoms gradually eased, and by late October and early November pins and needles were mostly 0–2. The shoulder pain stayed at 4–8, so it remained the main complaint when the diary ends.
 
 [⬇️ Jump to bottom](#bottom)
 
@@ -1894,6 +1894,17 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 20 mins
+
+## 8th november 1125
+- **Pain score:** 2 shoulder, 0 pressure
+- **Pins and needles score:** 3 in pins from bicep to tip of fingers got pins
+- **Activity:** laying in bed
+- **Numbness score:** 3
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 30 mins
+
 ---
 
 ## [Date] [Time]
