@@ -1916,6 +1916,9 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
+## 10th november 1140
+no phone today, but made a note that at 1140, i was experiencing back pain whilst teaching similar to previous weeks back, was listed as a 5 in score
+
 ---
 
 ## [Date] [Time]
