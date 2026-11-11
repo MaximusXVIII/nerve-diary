@@ -1919,6 +1919,9 @@ Update from the day: pain involving pins and needles, plus shoulder pain. Pins a
 ## 10th november 1140
 no phone today, but made a note that at 1140, i was experiencing back pain whilst teaching similar to previous weeks back, was listed as a 5 in score
 
+## 11th november 1400
+no phone again, back was hurting whilst teaching again today. 7 on shoulder pain, currently (2050), score of 7 again on the shoulder pain
+
 ---
 
 ## [Date] [Time]
