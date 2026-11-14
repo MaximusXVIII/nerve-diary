@@ -1922,6 +1922,16 @@ no phone today, but made a note that at 1140, i was experiencing back pain whils
 ## 11th november 1400
 no phone again, back was hurting whilst teaching again today. 7 on shoulder pain, currently (2050), score of 7 again on the shoulder pain
 
+## 14th nov 2128
+- **Pain score:** 4 in shoulder and 0 in pressure
+- **Pins and needles score:** 0
+- **Activity:** at desk
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 30 mins
+
 ---
 
 ## [Date] [Time]
