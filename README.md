@@ -1943,6 +1943,17 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 - **Medication taken:** N/A
 - **Duration of episode:** 10 mins
 
+## 18th nov 2120
+- **Pain score:** 5 in shoulder and in pressure
+- **Pins and needles score:** 1 in pins in the tips of the fingers
+- **Activity:** lifting some things at home
+- **Numbness score:** 0 
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 5 mins
+
+
 ---
 
 ## [Date] [Time]
