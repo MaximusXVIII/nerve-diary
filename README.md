@@ -1953,6 +1953,8 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
+## 1511 
+- **driving so shoulder pain was 3 , having 2 in nerve in arm
 
 ---
 
