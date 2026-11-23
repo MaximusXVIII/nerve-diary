@@ -1956,6 +1956,16 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 ## 1511 
 - **driving so shoulder pain was 3 , having 2 in nerve in arm
 
+## 23rd nov 2059
+- **Pain score:** 8 on shoulder and 0 on pressure
+- **Pins and needles score:** 0 on pins
+- **Activity:** at desk in hotel
+- **Numbness score:** 0
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 20 mins
+
 ---
 
 ## [Date] [Time]
