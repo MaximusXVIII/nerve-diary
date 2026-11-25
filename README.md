@@ -1953,7 +1953,7 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 - **Medication taken:** N/A
 - **Duration of episode:** 5 mins
 
-## 1511 
+## 22nd nov 1511 
 - **driving so shoulder pain was 3 , having 2 in nerve in arm
 
 ## 23rd nov 2059
@@ -1965,6 +1965,16 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 - **Sleep affected:** N/A
 - **Medication taken:** N/A
 - **Duration of episode:** 20 mins
+
+## 25th nov 2238
+- **Pain score:** 7 in shojlder 0 in arm pressure
+- **Pins and needles score:** 0
+- **Activity:** in bed
+- **Numbness score:**
+- **Activities affected:** N/A
+- **Sleep affected:** N/A
+- **Medication taken:** N/A
+- **Duration of episode:** 40 mins
 
 ---
 
