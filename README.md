@@ -1976,6 +1976,9 @@ no phone again, back was hurting whilst teaching again today. 7 on shoulder pain
 - **Medication taken:** N/A
 - **Duration of episode:** 40 mins
 
+## 27th nov 2126 
+- **driving today so shoulder pain was 2 consistently, but peaked at an 8. Current pain is a 4, occasional pins and needles type pain in my hand
+
 ---
 
 ## [Date] [Time]
